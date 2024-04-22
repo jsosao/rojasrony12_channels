@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana" channelId="4804",Willax TV
-http://190.119.178.46:8000/play/aa0j/index,m3u8
+https://190.119.178.46:8000/play/aa0j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana" channelId="2545",Latina
-http://190.119.178.46:8000/play/a017/index.ts
+https://190.119.178.46:8000/play/a017
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w642085600.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana" channelId="4792",América Televisión
