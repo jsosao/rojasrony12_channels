@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WILLAX TV HD.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
+#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
 http://190.119.178.46:8000/play/aa0j
-#EXTINF:-1 tvg-id="LATINA HD.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
+#EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
 http://190.119.178.46:8000/play/a017
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w642085600.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana",América Televisión
+#EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana",América Televisión
 http://190.119.178.46:8000/play/a016
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV Peruana",Panamericana TV
+#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION HD.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV Peruana",Panamericana TV
 http://190.119.178.46:8000/play/a01i
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV Peruana",Exitosa TV
+#EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV Peruana",Exitosa TV
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
 http://190.119.178.46:8000/play/a01j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
 http://190.119.178.46:8000/play/a039
