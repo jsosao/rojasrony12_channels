@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana" channelId="4804",Willax TV
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana" channelId="4804",Willax TV
 http://190.119.178.46:8000/play/aa0j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana" channelId="2545",Latina
 http://190.119.178.46:8000/play/a017
