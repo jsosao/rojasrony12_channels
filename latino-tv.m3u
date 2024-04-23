@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
+#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
 http://190.119.178.46:8000/play/aa0j
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
+#EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
 http://190.119.178.46:8000/play/a017
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w642085600.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana",América Televisión
+#EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana",América Televisión
 http://190.119.178.46:8000/play/a016
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV Peruana",Panamericana TV
+#EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV Peruana",Panamericana TV
 http://190.119.178.46:8000/play/a01i
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV Peruana",Exitosa TV
+#EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV Peruana",Exitosa TV
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
+#EXTINF:-1 tvg-id="TV PERU.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
 http://190.119.178.46:8000/play/a01j
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
 http://190.119.178.46:8000/play/a039
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV Peruana",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV Peruana",ATV
 http://190.119.178.46:8000/play/a01k
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MnFWKCN/doblec-tv.png" group-title="TV Peruana",Doble C Televisión
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JrbHc3L/viva-tv.png" group-title="TV Peruana",VivaTV
+#EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/JrbHc3L/viva-tv.png" group-title="TV Peruana",VivaTV
 http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="TV Peruana",USMPTV
+#EXTINF:-1 tvg-id="USMP TV.pe" tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="TV Peruana",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="TV Peruana",Global TV
+#EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="TV Peruana",Global TV
 http://177.234.247.66:8888/play/a06f
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1nqMHyT/justicia-tv.png" group-title="TV Peruana",Justicia TV
+#EXTINF:-1 tvg-id="JUSTICIA TV.pe" tvg-logo="https://i.ibb.co/1nqMHyT/justicia-tv.png" group-title="TV Peruana",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Q8mSSrh/congreso-tv.png" group-title="TV Peruana",Congreso TV
+#EXTINF:-1 tvg-id="CONGRESO.pe" tvg-logo="https://i.ibb.co/Q8mSSrh/congreso-tv.png" group-title="TV Peruana",Congreso TV
 http://bantel.iptvperu.tv:1935/astra/CanalDelCongreso/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WgRgkYV/enlace.png" group-title="TV Peruana",Enlace TV
+#EXTINF:-1 tvg-id="ENLACE TBN.pe" tvg-logo="https://i.ibb.co/WgRgkYV/enlace.png" group-title="TV Peruana",Enlace TV
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1dpQd42/telelima.png" group-title="TV Peruana",Telelima
 http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hW2jMgb/like-tv.png" group-title="TV Peruana",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="TV Peruana",JN19
+#EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="TV Peruana",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M5fLVxj/nativa.png" group-title="TV Peruana",Nativa
 https://ntv.pe/salida/nativa.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="TV Peruana",ATV Sur
+#EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="TV Peruana",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="TV Peruana",Karibeña
 https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpzH4kv/la-tele.png" group-title="TV Peruana",La Tele
+#EXTINF:-1 tvg-id="La Tele.pe" tvg-logo="https://i.ibb.co/HpzH4kv/la-tele.png" group-title="TV Peruana",La Tele
 http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qJSfTch/nazarenas-tv.png" group-title="TV Peruana",Nazarenas TV
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
@@ -59,11 +59,11 @@ https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 http://bantel.iptvperu.tv:1935/miscelaneos/Ondadigital.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJLzn7B/onda-digital2.png" group-title="TV Peruana",Onda Digital 2
 http://bantel.iptvperu.tv:1935/astralocal/ODTV2/chunks.m3u8
-#EXTINF:-1 tvg-id="History Channel.co" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Culturales",History
+#EXTINF:-1 tvg-id="HISTORY CHANNEL.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Culturales",History
 http://190.119.178.46:8000/play/a00b
-#EXTINF:-1 tvg-id="History 2.co" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Culturales",History 2
+#EXTINF:-1 tvg-id="HISTORY 2.pe" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Culturales",History 2
 http://190.119.178.46:8000/play/a01g
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL PLANET.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
 http://190.119.178.46:8000/play/a011
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="Culturales",Love Nature
 http://190.119.178.46:8000/play/a01a
