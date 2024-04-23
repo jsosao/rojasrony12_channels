@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
+#EXTINF:-1 tvg-id="WILLAX TV HD.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
 http://190.119.178.46:8000/play/aa0j
-#EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
+#EXTINF:-1 tvg-id="LATINA HD.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
 http://190.119.178.46:8000/play/a017
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w642085600.m3u8
