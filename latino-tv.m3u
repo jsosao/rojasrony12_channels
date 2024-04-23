@@ -11,7 +11,7 @@ http://190.119.178.46:8000/play/a016
 http://190.119.178.46:8000/play/a01i
 #EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV Peruana",Exitosa TV
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
-#EXTINF:-1 tvg-id="TV PERU.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
+#EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
 http://190.119.178.46:8000/play/a01j
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
 http://190.119.178.46:8000/play/a039
