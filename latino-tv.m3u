@@ -13,9 +13,9 @@ http://190.119.178.46:8000/play/a01i
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
 http://190.119.178.46:8000/play/a01j
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
+#EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
 http://190.119.178.46:8000/play/a039
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV Peruana",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV Peruana",ATV
 http://190.119.178.46:8000/play/a01k
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnFWKCN/doblec-tv.png" group-title="TV Peruana",Doble C Televisión
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
