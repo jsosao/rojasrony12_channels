@@ -159,7 +159,7 @@ http://190.119.178.46:8000/play/a005
 http://138.59.177.34:8000/play/a04f
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k1kv2tD/multipremier.png" group-title="Cine y Series",Multipremier
 http://138.59.177.34:8000/play/a06o
-#EXTINF:-1 tvg-id="HBO.pe" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
+#EXTINF:-1 tvg-id="HBO HD.pe" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
 http://190.119.178.46:8000/play/a00v
 #EXTINF:-1 tvg-id="HBO 2.pe" tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="Cine y Series",HBO 2
 http://190.119.178.46:8000/play/a010
