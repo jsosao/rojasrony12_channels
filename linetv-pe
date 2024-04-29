@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/perupremium.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/perupremium.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
 http://190.119.178.46:8000/play/aa0j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
