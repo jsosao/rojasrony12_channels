@@ -3,44 +3,82 @@
 http://190.119.178.46:8000/play/aa0j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
 http://190.119.178.46:8000/play/a017
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="TV Peruana",RPP
-http://177.53.155.236:8000/play/a09l
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w642085600.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana",América Televisión
 http://190.119.178.46:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV Peruana",Panamericana TV
 http://190.119.178.46:8000/play/a01i
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HT1GLJ5/movistar-plus.png" group-title="TV Peruana",Movistar Plus
-http://177.234.247.66:8888/play/a06c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
-http://190.119.178.46:8000/play/a01j
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="TV Peruana",Canal N
-http://177.53.155.236:8000/play/a09p
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV Peruana",ATV
-http://190.119.178.46:8000/play/a01k
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
-http://190.119.178.46:8000/play/a039
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HpzH4kv/la-tele.png" group-title="TV Peruana",La Tele
-http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w642085600.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="TV Peruana",Global TV
-http://177.234.247.66:8888/play/a06f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV Peruana",Exitosa TV
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
+http://190.119.178.46:8000/play/a01j
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
+http://190.119.178.46:8000/play/a039
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV Peruana",ATV
+http://190.119.178.46:8000/play/a01k
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnFWKCN/doblec-tv.png" group-title="TV Peruana",Doble C Televisión
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrbHc3L/viva-tv.png" group-title="TV Peruana",VivaTV
+http://bantel.iptvperu.tv:1935/transcoder_t1/vivatv_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="TV Peruana",USMPTV
+https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="TV Peruana",Global TV
+http://177.234.247.66:8888/play/a06f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nqMHyT/justicia-tv.png" group-title="TV Peruana",Justicia TV
+http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8mSSrh/congreso-tv.png" group-title="TV Peruana",Congreso TV
+http://bantel.iptvperu.tv:1935/astra/CanalDelCongreso/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgRgkYV/enlace.png" group-title="TV Peruana",Enlace TV
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1dpQd42/telelima.png" group-title="TV Peruana",Telelima
+http://38.44.237.132:2080/TeleLima/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hW2jMgb/like-tv.png" group-title="TV Peruana",Like TV
+https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="TV Peruana",JN19
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5fLVxj/nativa.png" group-title="TV Peruana",Nativa
+https://ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="TV Peruana",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
-http://190.119.178.46:8000/play/a011
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Culturales",Discovery Channel
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4819
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="TV Peruana",Karibeña
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpzH4kv/la-tele.png" group-title="TV Peruana",La Tele
+http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qJSfTch/nazarenas-tv.png" group-title="TV Peruana",Nazarenas TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCVh765.png" group-title="TV Peruana",Bethel TV
+http://190.119.178.46:8000/play/a03d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tsSkmMT/conecta2tv.png" group-title="TV Peruana",Conecta2TV
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K96tQYZ/bh-tv.png" group-title="TV Peruana",BHTV
+https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQkyVtg/matices.png" group-title="TV Peruana",MaticesTV
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="TV Peruana",Onda Digital
+http://bantel.iptvperu.tv:1935/miscelaneos/Ondadigital.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJLzn7B/onda-digital2.png" group-title="TV Peruana",Onda Digital 2
+http://bantel.iptvperu.tv:1935/astralocal/ODTV2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Culturales",History
 http://190.119.178.46:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Culturales",History 2
 http://190.119.178.46:8000/play/a01g
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Culturales",Animal Planet
+http://190.119.178.46:8000/play/a011
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="Culturales",Love Nature
 http://190.119.178.46:8000/play/a01a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="Culturales",Nat Geo
 http://190.119.178.46:8000/play/a01t
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Culturales",Discovery Channel
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4819
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="Culturales",Discovery H&H
+http://190.119.178.46:8000/play/a00o
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Culturales",Discovery ID
+http://190.119.178.46:8000/play/a01p
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Culturales",Discovery Turbo
+http://177.234.247.66:8888/play/a079
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Culturales",Discovery World
+http://138.59.177.34:8000/play/a078
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
 http://190.119.178.46:8000/play/a02j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Deportes",ESPN 2
@@ -49,14 +87,18 @@ http://190.119.178.46:8000/play/a007
 http://190.119.178.46:8000/play/a00j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="Deportes",ESPN 4
 http://190.119.178.46:8000/play/a03e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN ᴾʳᵉᵐⁱᵘᵐ
-http://190.119.178.46:8000/play/a02l
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="Deportes",ESPN 5
+http://190.119.178.46:8000/play/a02o
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMc9wbN/espn6.png" group-title="Deportes",ESPN 6
+http://190.119.178.46:8000/play/a02m
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="Deportes",ESPN 7
+http://190.119.178.46:8000/play/a02k
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TgQ1VCC/espn-extra.png" group-title="Deportes",ESPN Extra
+http://190.119.178.46:8000/play/a036
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="Deportes",Movistar Deportes
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/132289
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="Deportes",Gol Perú
 http://190.119.178.46:8000/play/a02p
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="Deportes",Liga 1 Max
-http://177.53.155.236:8000/play/a0bt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bXzTMzH/adult-swim.png" group-title="Infantiles",Adult Swim
 http://190.119.178.46:8000/play/a033
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfswZ3H/cartoonnetwork.png" group-title="Infantiles",Cartoon Netwoort
@@ -83,6 +125,8 @@ http://190.119.178.46:8000/play/a004
 http://190.119.178.46:8000/play/a00t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="Cine y Series",AXN
 http://190.119.178.46:8000/play/a005
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="Cine y Series",Cinecanal
+http://190.119.178.46:8000/play/a03b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkfZ903/cinemax.png" group-title="Cine y Series",Cinemax
 http://190.119.178.46:8000/play/a00l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Cine y Series",FX
@@ -93,12 +137,24 @@ https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Cine y Series",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FbGy9x/golden-premier.png" group-title="Cine y Series",Golden Premier
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
 http://190.119.178.46:8000/play/a00v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="Cine y Series",HBO 2
 http://190.119.178.46:8000/play/a010
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0BZnBQJ/hbo-family.png" group-title="Cine y Series",HBO Family
+http://170.254.18.106/HBO_FAMILY/tracks-v1a2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7S0Pg3v/hbo-mundi.png" group-title="Cine y Series",HBO Mundi
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3907
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TY2WjMm/hbo-plus.jpg" group-title="Cine y Series",HBO+
 http://138.59.177.34:8000/play/a01o
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2kLJ4d/hbo-Pop.png" group-title="Cine y Series",HBO Pop
+http://170.254.18.106:80/HBO_POP/tracks-v1a2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1L2LR1/hbo-signature.png" group-title="Cine y Series",HBO Signature
+http://177.234.247.66:8888/play/a067
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k4SrHdb/hbo-xtreme.png" group-title="Cine y Series",HBO Xtreme
+http://190.119.178.46:8000/play/a01h
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="Cine y Series",Paramount
 http://190.119.178.46:8000/play/a00x
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Cine y Series",Sony Channel
@@ -115,7 +171,11 @@ http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4801
 http://190.119.178.46:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWTm7g0/tnt-series.png" group-title="Cine y Series",TNT Series
 http://190.119.178.46:8000/play/a03c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7CQ6jML/usa.jpg" group-title="Cine y Series",USA
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4943
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Cine y Series",Universal
 http://190.119.178.46:8000/play/a00p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",Warner
 http://190.119.178.46:8000/play/a029
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",TCM
+http://190.119.178.46:8000/play/a026
