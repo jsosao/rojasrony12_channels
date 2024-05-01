@@ -4,7 +4,7 @@ http://190.119.178.46:8000/play/aa0j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
 http://190.119.178.46:8000/play/a017
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w642085600.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w307313434.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana",América Televisión
 http://190.119.178.46:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV Peruana",Panamericana TV
