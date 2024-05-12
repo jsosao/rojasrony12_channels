@@ -78,7 +78,7 @@ http://190.119.178.46:8000/play/a01p
 #EXTINF:-1 tvg-id="DISCOVERY TURBO.pe" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Culturales",Discovery Turbo
 http://177.234.247.66:8888/play/a079
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Culturales",Discovery World
-http://138.59.177.34:8000/play/a078
+http://190.61.55.186:1010/play/a00e
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
 http://190.119.178.46:8000/play/a02j
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Deportes",ESPN 2
@@ -156,9 +156,9 @@ http://190.119.178.46:8000/play/a00t
 #EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="Cine y Series",AXN
 http://190.119.178.46:8000/play/a005
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r4Nj5CK/multicinema.png" group-title="Cine y Series",Multicinema
-http://138.59.177.34:8000/play/a04f
+http://181.78.105.146:6060/play/a05q
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k1kv2tD/multipremier.png" group-title="Cine y Series",Multipremier
-http://138.59.177.34:8000/play/a06o
+http://177.234.247.66:8888/play/a08g
 #EXTINF:-1 tvg-id="HBO HD.pe" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
 http://190.119.178.46:8000/play/a00v
 #EXTINF:-1 tvg-id="HBO 2.pe" tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="Cine y Series",HBO 2
@@ -168,7 +168,7 @@ http://170.254.18.106/HBO_FAMILY/tracks-v1a2/index.m3u8
 #EXTINF:-1 tvg-id="HBO MUNDI.pe" tvg-logo="https://i.ibb.co/7S0Pg3v/hbo-mundi.png" group-title="Cine y Series",HBO Mundi
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/3907
 #EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-logo="https://i.ibb.co/TY2WjMm/hbo-plus.jpg" group-title="Cine y Series",HBO+
-http://138.59.177.34:8000/play/a01o
+http://177.234.247.66:8888/play/a066
 #EXTINF:-1 tvg-id="HBO POP.pe" tvg-logo="https://i.ibb.co/Y2kLJ4d/hbo-Pop.png" group-title="Cine y Series",HBO Pop
 http://170.254.18.106:80/HBO_POP/tracks-v1a2/index.m3u8
 #EXTINF:-1 tvg-id="HBO SIGNATURE.pe" tvg-logo="https://i.ibb.co/Z1L2LR1/hbo-signature.png" group-title="Cine y Series",HBO Signature
@@ -202,7 +202,7 @@ http://190.119.178.46:8000/play/a01d
 #EXTINF:-1 tvg-id="EUROCHANNEL.pe" tvg-logo="https://i.ibb.co/vXr5JZH/euro-channel.png" group-title="Cine y Series",Eurochannel
 http://177.234.247.66:8888/play/a05x
 #EXTINF:-1 tvg-id="Film and Arts HD.pe" tvg-logo="https://i.ibb.co/F3Twpcc/film-arts.png" group-title="Cine y Series",Film&Art
-http://138.59.177.34:8000/play/a031
+http://177.53.155.236:8000/play/a08i
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tP8TwCP/fmh-movies.png" group-title="Cine y Series",FMHMovies
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Movies/chunks.m3u8
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Cine y Series",FX
@@ -230,11 +230,11 @@ http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4943
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Cine y Series",Universal
 http://190.119.178.46:8000/play/a00p
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://i.ibb.co/fvQv0xz/universal-cinema.png" group-title="Cine y Series",Universal Cinema
-http://138.59.177.34:8000/play/a07c
+http://177.53.155.236:8000/play/a09f
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-logo="https://i.ibb.co/Sd3GBhy/universal-comedy.png" group-title="Cine y Series",Universal Comedy
-http://138.59.177.34:8000/play/a05w
+http://177.53.155.236:8000/play/a094
 #EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://i.ibb.co/1TjWj45/universal-premiere.png" group-title="Cine y Series",Universal Premiere
-http://138.59.177.34:8000/play/a05t
+http://177.53.155.236:8000/play/a090
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",Warner
 http://190.119.178.46:8000/play/a029
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fttNbzB/mi-musica-per.png" group-title="Musicales",Mi Musica Perú
@@ -250,7 +250,7 @@ http://bantel.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Musicales",MTV
 http://190.119.178.46:8000/play/a01b
 #EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://i.ibb.co/8jT22CV/htv.png" group-title="Musicales",HTV
-http://138.59.177.34:8000/play/a04c
+http://177.234.247.66:8888/play/a07a
 #EXTINF:-1 tvg-id="NickMusic.us" tvg-logo="https://i.ibb.co/VHZkccH/nickmusic.png" group-title="Musicales",Nick Music
 http://177.234.247.66:8888/play/a07o
 #EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Noticias",Canal N
@@ -296,6 +296,6 @@ http://190.119.178.46:8000/play/a01o
 #EXTINF:-1 tvg-id="PLAYBOY.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="Adultos +18",Playboy
 http://177.234.247.66:8888/play/a01f
 #EXTINF:-1 tvg-id="SEXTREME.pe" tvg-logo="https://i.ibb.co/d49zSzn/sextreme.png" group-title="Adultos +18",seXtreme
-http://138.59.177.34:8000/play/a07g
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4163
 #EXTINF:-1 tvg-id="VENUS.pe" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="Adultos +18",Venus
 http://190.119.178.46:8000/play/a01q
