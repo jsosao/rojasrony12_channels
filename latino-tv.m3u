@@ -42,7 +42,7 @@ https://ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="TV Peruana",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="TV Peruana",Karibeña
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="La Tele.pe" tvg-logo="https://i.ibb.co/HpzH4kv/la-tele.png" group-title="TV Peruana",La Tele
 http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.ibb.co/qJSfTch/nazarenas-tv.png" group-title="TV Peruana",Nazarenas TV
