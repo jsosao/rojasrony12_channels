@@ -42,7 +42,7 @@ https://ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="TV Peruana",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="TV Peruana",Karibeña
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="La Tele.pe" tvg-logo="https://i.ibb.co/HpzH4kv/la-tele.png" group-title="TV Peruana",La Tele
 http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.ibb.co/qJSfTch/nazarenas-tv.png" group-title="TV Peruana",Nazarenas TV
@@ -132,13 +132,13 @@ http://190.119.178.46:8000/play/a00l
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Cine y Series",FX
 http://190.119.178.46:8000/play/a034
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="Cine y Series",Golden
-https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.ibb.co/DDCJCPf/golden-edge.png" group-title="Cine y Series",Golden EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://177.234.247.66:8888/play/a071
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Cine y Series",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.ibb.co/5FbGy9x/golden-premier.png" group-title="Cine y Series",Golden Premier
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO HD.pe" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
 http://190.119.178.46:8000/play/a00v
 #EXTINF:-1 tvg-id="HBO 2.pe" tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="Cine y Series",HBO 2
