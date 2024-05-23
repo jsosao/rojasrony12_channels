@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
-http://190.119.178.46:8000/play/aa0j
+http://190.119.178.46:8000/play/a047
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
 http://190.119.178.46:8000/play/a017
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
@@ -8,15 +8,15 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w3073
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana",América Televisión
 http://190.119.178.46:8000/play/a016
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV Peruana",Panamericana TV
-http://190.119.178.46:8000/play/a01i
+http://190.119.178.46:8000/play/a04b
 #EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV Peruana",Exitosa TV
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+http://190.119.178.46:8000/play/a0b3
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
-http://190.119.178.46:8000/play/a01j
+http://190.119.178.46:8000/play/a04d
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="TV Peruana",ATV+
 http://190.119.178.46:8000/play/a039
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="TV Peruana",ATV
-http://190.119.178.46:8000/play/a01k
+http://190.119.178.46:8000/play/a04c
 #EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.ibb.co/MnFWKCN/doblec-tv.png" group-title="TV Peruana",Doble C Televisión
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-id="VIVA TV.pe" tvg-logo="https://i.ibb.co/JrbHc3L/viva-tv.png" group-title="TV Peruana",VivaTV
@@ -56,7 +56,7 @@ https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.ibb.co/LQkyVtg/matices.png" group-title="TV Peruana",MaticesTV
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 #EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="TV Peruana",Onda Digital
-http://bantel.iptvperu.tv:1935/miscelaneos/Ondadigital.stream/chunks.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/ODTV/chunks.m3u8
 #EXTINF:-1 tvg-id="OndaDigital2.pe" tvg-logo="https://i.ibb.co/GJLzn7B/onda-digital2.png" group-title="TV Peruana",Onda Digital 2
 http://bantel.iptvperu.tv:1935/astralocal/ODTV2/chunks.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Culturales",History
@@ -275,8 +275,8 @@ http://177.234.247.66:8888/play/a06c
 http://190.119.178.46:8000/play/a015
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Entretenimiento",Lifetime
 http://177.234.247.66:8888/play/a07f
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://i.ibb.co/gWv5PPj/distrito-comedia.png" group-title="Entretenimiento",Distrito Comedia
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://i.ibb.co/kHTtTJr/holatv.png" group-title="Entretenimiento",Hola TV
+http://190.119.178.46:8000/play/a00h
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://i.ibb.co/1JNg9xx/univision.png" group-title="Entretenimiento",Univisión
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/chunks.m3u8
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="Entretenimiento",Caracol
@@ -286,7 +286,7 @@ http://190.119.178.46:8000/play/a01v
 #EXTINF:-1 tvg-id="las estrellas.pe" tvg-logo="https://i.ibb.co/YNWWxKZ/las-estrellas.png" group-title="Entretenimiento",Las Estrellas
 http://190.119.178.46:8000/play/a01c
 #EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-logo="https://i.ibb.co/TbD9hXg/telemundo.png" group-title="Entretenimiento",Telemundo
-http://190.119.178.46:8000/play/a01m
+http://190.119.178.46:8000/play/a04e
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.ibb.co/Jq8xwNL/RCN-Novelas.png" group-title="Entretenimiento",RCN Novelas
 http://190.61.55.186:1010/play/a00b
 #EXTINF:-1 tvg-id="Pasiones HD.pe" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="Entretenimiento",Pasiones
