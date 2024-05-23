@@ -180,13 +180,13 @@ http://51.159.104.29:8080/action/index.m3u8
 #EXTINF:-1 tvg-id="CINECANAL.pe" tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="Cine y Series",Cinecanal
 http://190.119.178.46:8000/play/a03b
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="Cine y Series",Golden
-https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://i.ibb.co/DDCJCPf/golden-edge.png" group-title="Cine y Series",Golden EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://177.234.247.66:8888/play/a071
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Cine y Series",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.ibb.co/5FbGy9x/golden-premier.png" group-title="Cine y Series",Golden Premier
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0KBbXVT/cine-familiar.png" group-title="Cine y Series",Cine Familiar
 http://bantel.iptvperu.tv:1935/transcoderip/cinefamiliar_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y8R4q3q/cine-hispano.png" group-title="Cine y Series",Cine Hispano
