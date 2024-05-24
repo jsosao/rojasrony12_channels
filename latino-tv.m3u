@@ -1,14 +1,14 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml"
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="TV Peruana",Willax TV
-http://190.119.178.46:8000/play/a047
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="TV Peruana",Latina
 http://190.119.178.46:8000/play/a017
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="TV Peruana",Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w324079756_tkdHZ0b2tlbnN0YXJ0dGltZT0xNzE2NDg2MDM5JnR2dG9rZW5lbmR0aW1lPTE3MTY0ODc4MzkmdHZ0b2tlbmhhc2g9VkkySjMwWWNUQzRnYUY0MEV6S1M0ZzVzZFIxNWpTamFnblVWaklSbTdpZz0=.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="TV Peruana",América Televisión
 http://190.119.178.46:8000/play/a016
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="TV Peruana",Panamericana TV
-http://190.119.178.46:8000/play/a04b
+http://177.234.247.66:8888/play/a06b
 #EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="TV Peruana",Exitosa TV
 http://190.119.178.46:8000/play/a0b3
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="TV Peruana",TV Perú
@@ -295,7 +295,7 @@ http://190.119.178.46:8000/play/a00f
 http://190.119.178.46:8000/play/a01o
 #EXTINF:-1 tvg-id="PLAYBOY.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="Adultos +18",Playboy
 http://177.234.247.66:8888/play/a01f
-#EXTINF:-1 tvg-id="SEXTREME.pe" tvg-logo="https://i.ibb.co/d49zSzn/sextreme.png" group-title="Adultos +18",seXtreme
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4163
+#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.ibb.co/vXBWRdj/brazzerstv.png" group-title="Adultos +18",Brazzers TV
+http://31.131.136.4:8000/play/a00z
 #EXTINF:-1 tvg-id="VENUS.pe" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="Adultos +18",Venus
 http://190.119.178.46:8000/play/a01q
