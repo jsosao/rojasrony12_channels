@@ -37,7 +37,7 @@ http://38.44.237.132:2080/TeleLima/index.m3u8
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="TV Peruana",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.ibb.co/M5fLVxj/nativa.png" group-title="TV Peruana",Nativa
+#EXTINF:-1 tvg-id="Nativa Tv.pe" tvg-logo="https://i.ibb.co/M5fLVxj/nativa.png" group-title="TV Peruana",Nativa
 https://ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="TV Peruana",ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
@@ -158,7 +158,7 @@ http://190.119.178.46:8000/play/a005
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r4Nj5CK/multicinema.png" group-title="Cine y Series",Multicinema
 http://181.78.105.146:6060/play/a05q
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k1kv2tD/multipremier.png" group-title="Cine y Series",Multipremier
-http://177.234.247.66:8888/play/a08g
+http://190.119.178.46:8000/play/a028
 #EXTINF:-1 tvg-id="HBO HD.pe" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
 http://190.119.178.46:8000/play/a00v
 #EXTINF:-1 tvg-id="HBO 2.pe" tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="Cine y Series",HBO 2
@@ -226,7 +226,7 @@ http://190.119.178.46:8000/play/a00i
 #EXTINF:-1 tvg-id="TNT SERIES.pe" tvg-logo="https://i.ibb.co/gWTm7g0/tnt-series.png" group-title="Cine y Series",TNT Series
 http://190.119.178.46:8000/play/a03c
 #EXTINF:-1 tvg-id="USANetworkPanregional.us" tvg-logo="https://i.ibb.co/7CQ6jML/usa.jpg" group-title="Cine y Series",USA
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/4943
+http://190.119.178.46:8000/play/a04q
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Cine y Series",Universal
 http://190.119.178.46:8000/play/a00p
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://i.ibb.co/fvQv0xz/universal-cinema.png" group-title="Cine y Series",Universal Cinema
@@ -255,7 +255,7 @@ http://177.234.247.66:8888/play/a07a
 http://177.234.247.66:8888/play/a07o
 #EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Noticias",Canal N
 http://177.53.155.236:8000/play/a09p
-#EXTINF:-1 tvg-id="CNN ESPAÃ‘OL.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-id="CNN ESPAÑOL.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="Noticias",CNN en Español
 http://190.61.55.186:1010/play/a02l
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fh829Jq/rt.png" group-title="Noticias",RT
 https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
@@ -293,7 +293,7 @@ http://190.61.55.186:1010/play/a00b
 http://190.119.178.46:8000/play/a00f
 #EXTINF:-1 tvg-id="Tl Novelas.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Entretenimiento",Tlnovelas
 http://190.119.178.46:8000/play/a01o
-#EXTINF:-1 tvg-id="PLAYBOY.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="Adultos +18",Playboy
+#EXTINF:-1 tvg-id="PLAYBOY HD.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="Adultos +18",Playboy
 http://177.234.247.66:8888/play/a01f
 #EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.ibb.co/vXBWRdj/brazzerstv.png" group-title="Adultos +18",Brazzers TV
 http://31.131.136.4:8000/play/a00z
