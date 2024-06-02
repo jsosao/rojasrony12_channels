@@ -222,19 +222,19 @@ http://190.119.178.46:8000/play/a00i
 #EXTINF:-1 tvg-id="TNT SERIES.pe" tvg-logo="https://i.ibb.co/gWTm7g0/tnt-series.png" group-title="Cine y Series",TNT Series
 http://190.119.178.46:8000/play/a03c
 #EXTINF:-1 tvg-id="USANetworkPanregional.us" tvg-logo="https://i.ibb.co/7CQ6jML/usa.jpg" group-title="Cine y Series",USA
-http://177.53.155.236:8000/play/a02l
+http://181.78.105.146:6060/play/a031
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Cine y Series",Universal
 http://190.119.178.46:8000/play/a00p
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-logo="https://i.ibb.co/fvQv0xz/universal-cinema.png" group-title="Cine y Series",Universal Cinema
-http://177.53.155.236:8000/play/a09f
+http://45.5.119.106:8000/play/a04c
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-logo="https://i.ibb.co/Sd3GBhy/universal-comedy.png" group-title="Cine y Series",Universal Comedy
-http://177.53.155.236:8000/play/a094
+http://181.78.105.146:6060/play/a03t
 #EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-logo="https://i.ibb.co/1TjWj45/universal-premiere.png" group-title="Cine y Series",Universal Premiere
-http://177.53.155.236:8000/play/a090
+http://181.78.105.146:6060/play/a03p
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",Warner
 http://190.119.178.46:8000/play/a029
 #EXTINF:-1 tvg-id="Film and Arts HD.pe" tvg-logo="https://i.ibb.co/F3Twpcc/film-arts.png" group-title="Cine y Series",Film&Art
-http://177.53.155.236:8000/play/a08i
+http://181.78.105.146:6060/play/a02f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8072twn/tcm.png" group-title="Cine y Series",TCM
 http://190.119.178.46:8000/play/a026
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fttNbzB/mi-musica-per.png" group-title="Musicales",Mi Musica Perú
@@ -264,7 +264,7 @@ http://190.61.55.186:1010/play/a02n
 #EXTINF:-1 tvg-id="TELESUR.pe" tvg-logo="https://i.ibb.co/0Mbt0CD/telesur.png" group-title="Noticias",Telesur
 http://190.119.178.46:8000/play/a03a
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="Noticias",RPP
-http://177.53.155.236:8000/play/a09l
+http://45.5.119.106:8000/play/a03k
 #EXTINF:-1 tvg-id="EL GOURMET HD.pe" tvg-logo="https://i.ibb.co/NTdcVGJ/el-gourmet.png" group-title="Entretenimiento",El Gourmet
 http://190.61.55.186:1010/play/a025
 #EXTINF:-1 tvg-id="FOOD NETWORK.pe" tvg-logo="https://i.ibb.co/YXcyJst/food.png" group-title="Entretenimiento",Food Network
