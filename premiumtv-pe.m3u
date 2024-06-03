@@ -59,25 +59,25 @@ https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 http://bantel.iptvperu.tv:1935/astralocal/ODTV/chunks.m3u8
 #EXTINF:-1 tvg-id="OndaDigital2.pe" tvg-logo="https://i.ibb.co/GJLzn7B/onda-digital2.png" group-title="Locales",Onda Digital 2
 http://bantel.iptvperu.tv:1935/astralocal/ODTV2/chunks.m3u8
-#EXTINF:-1 tvg-id="HISTORY CHANNEL.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Ciencia & Cultura",History
+#EXTINF:-1 tvg-id="HISTORY CHANNEL.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Ciencia y Cultura",History
 http://190.119.178.46:8000/play/a00b
-#EXTINF:-1 tvg-id="HISTORY 2.pe" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Ciencia & Cultura",History 2
+#EXTINF:-1 tvg-id="HISTORY 2.pe" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Ciencia y Cultura",History 2
 http://190.119.178.46:8000/play/a01g
-#EXTINF:-1 tvg-id="ANIMAL PLANET.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Ciencia & Cultura",Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL PLANET.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Ciencia y Cultura",Animal Planet
 http://190.119.178.46:8000/play/a011
-#EXTINF:-1 tvg-id="Love Nature HD.pe" tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="Ciencia & Cultura",Love Nature
+#EXTINF:-1 tvg-id="Love Nature HD.pe" tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="Ciencia y Cultura",Love Nature
 http://190.119.178.46:8000/play/a01a
-#EXTINF:-1 tvg-id="NAT GEO.pe" tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="Ciencia & Cultura",Nat Geo
+#EXTINF:-1 tvg-id="NAT GEO.pe" tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="Ciencia y Cultura",Nat Geo
 http://190.119.178.46:8000/play/a01t
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Ciencia & Cultura",Discovery Channel
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Ciencia y Cultura",Discovery Channel
 http://190.119.178.46:8000/play/a01e
-#EXTINF:-1 tvg-id="HOME and HEALTH.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="Ciencia & Cultura",Discovery H&H
+#EXTINF:-1 tvg-id="HOME and HEALTH.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="Ciencia y Cultura",Discovery H&H
 http://190.119.178.46:8000/play/a00o
-#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY.pe" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Ciencia & Cultura",Discovery ID
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY.pe" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Ciencia y Cultura",Discovery ID
 http://190.119.178.46:8000/play/a01p
-#EXTINF:-1 tvg-id="DISCOVERY TURBO.pe" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Ciencia & Cultura",Discovery Turbo
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.pe" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Ciencia y Cultura",Discovery Turbo
 http://177.234.247.66:8888/play/a079
-#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Ciencia & Cultura",Discovery World
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Ciencia y Cultura",Discovery World
 http://190.61.55.186:1010/play/a00e
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deporte",ESPN
 http://190.119.178.46:8000/play/a02j
