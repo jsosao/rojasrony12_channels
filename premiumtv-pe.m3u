@@ -38,7 +38,7 @@ https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="Locales",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="Nativa Tv.pe" tvg-logo="https://i.ibb.co/M5fLVxj/nativa.png" group-title="Locales",Nativa
-https://live-evg4.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8
+https://www.ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Locales",ATV Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/1dpQd42/telelima.png" group-title="Locales",Telelima
@@ -253,7 +253,7 @@ http://190.61.55.186:1010/play/a00x
 http://190.119.178.46:8000/play/a02b
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y4LFdhk/HGTV.jpg" group-title="Entretenimiento",HGTV
 http://177.234.247.66:8888/play/a078
-#EXTINF:-1 tvg-id="HOME and HEALTH.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="Culturales",Discovery H&H
+#EXTINF:-1 tvg-id="HOME and HEALTH.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="Entretenimiento",Discovery H&H
 http://190.119.178.46:8000/play/a00o
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="Novelas",Caracol
 http://190.61.55.186:1010/play/a02p
