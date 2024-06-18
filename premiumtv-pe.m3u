@@ -186,9 +186,9 @@ http://190.119.178.46:8000/play/a010
 #EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-logo="https://i.ibb.co/TY2WjMm/hbo-plus.jpg" group-title="Cine y Series",HBO+
 http://177.234.247.66:8888/play/a066
 #EXTINF:-1 tvg-id="HBO FAMILY.pe" tvg-logo="https://i.ibb.co/0BZnBQJ/hbo-family.png" group-title="Cine y Series",HBO Family
-http://170.254.18.106/HBO_FAMILY/tracks-v1a2/index.m3u8
+http://190.119.178.46:8000/play/a02n
 #EXTINF:-1 tvg-id="HBO POP.pe" tvg-logo="https://i.ibb.co/Y2kLJ4d/hbo-Pop.png" group-title="Cine y Series",HBO Pop
-http://170.254.18.106:80/HBO_POP/tracks-v1a2/index.m3u8
+http://177.234.247.66:8888/play/a00d
 #EXTINF:-1 tvg-id="HBO SIGNATURE.pe" tvg-logo="https://i.ibb.co/Z1L2LR1/hbo-signature.png" group-title="Cine y Series",HBO Signature
 http://177.234.247.66:8888/play/a067
 #EXTINF:-1 tvg-id="HBO XTREME.pe" tvg-logo="https://i.ibb.co/k4SrHdb/hbo-xtreme.png" group-title="Cine y Series",HBO Xtreme
