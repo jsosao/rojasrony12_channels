@@ -175,9 +175,9 @@ http://190.119.178.46:8000/play/a026
 http://177.53.155.236:8000/play/a08i
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VgHWd6n/clover-channel.png" group-title="Cine y Series",Clover
 http://177.234.247.66:8888/play/a00f
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series"Kanal D Drama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series",Kanal D Drama
 http://190.119.178.46:8000/play/a00w
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series"Star Tve
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series",Star Tve
 http://181.78.105.146:6060/play/a02o
 #EXTINF:-1 tvg-id="E.pe" tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="Entretenimiento",E!
 http://190.119.178.46:8000/play/a015
