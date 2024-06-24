@@ -14,7 +14,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="Locales",TV Perú
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Locales",Canal N
-http://177.53.155.236:8000/play/a09p
+http://190.119.178.46:8000/play/a04f
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="Locales",ATV
 http://177.234.247.66:8888/play/a06e
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="Locales",RPP
@@ -66,7 +66,7 @@ http://190.119.178.46:8000/play/a01v
 #EXTINF:-1 tvg-id="las estrellas.pe" tvg-logo="https://i.ibb.co/YNWWxKZ/las-estrellas.png" group-title="Novelas",Las Estrellas
 http://190.119.178.46:8000/play/a01c
 #EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-logo="https://i.ibb.co/TbD9hXg/telemundo.png" group-title="Novelas",Telemundo
-http://190.119.178.46:8000/play/a04e
+http://190.119.178.46:8000/play/a04v
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.ibb.co/Jq8xwNL/RCN-Novelas.png" group-title="Novelas",RCN Novelas
 http://190.61.55.186:1010/play/a00b
 #EXTINF:-1 tvg-id="Pasiones HD.pe" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="Novelas",Pasiones
@@ -178,7 +178,7 @@ http://190.119.178.46:8000/play/a03c
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Cine y Series",Universal
 http://190.119.178.46:8000/play/a00p
 #EXTINF:-1 tvg-id="USANetworkPanregional.us" tvg-logo="https://i.ibb.co/7CQ6jML/usa.jpg" group-title="Cine y Series",USA
-http://177.53.155.236:8000/play/a02l
+http://190.119.178.46:8000/play/a04q
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",Warner
 http://190.119.178.46:8000/play/a029
 #EXTINF:-1 tvg-id="TCM.pe" tvg-logo="https://i.ibb.co/8072twn/tcm.png" group-title="Cine y Series",TCM
@@ -280,9 +280,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6trDS68/action.png" group-title="Premium",Action
 http://51.159.104.29:8080/action/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPnLj7f/aztecainternacional.jpg" group-title="Premium",Azteca Internacional
-http://190.119.178.46:8000/play/a01w/index.m3u8
+http://190.119.178.46:8000/play/a01w
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/q5PFDKc/azcinema.jpg" group-title="Premium",Cinema
-http://190.119.178.46:8000/play/a0ea/index.m3u8
+http://190.119.178.46:8000/play/a0ea
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YTnygvs/clid.jpg" group-title="Premium",CliD
 http://190.119.178.46:8000/play/a02b
 #EXTINF:-1 tvg-id="TELESUR.pe" tvg-logo="https://i.ibb.co/0Mbt0CD/telesur.png" group-title="Premium",Telesur
