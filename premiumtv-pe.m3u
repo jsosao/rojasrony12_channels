@@ -221,8 +221,8 @@ http://190.119.178.46:8000/play/a00q
 http://177.234.247.66:8888/play/a07a
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="Premium",Liga 1 Max
 http://190.119.178.46:8000/play/a00c
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6bgwWQP/claro-sports.png" group-title="Premium",Claro Sports
-http://181.78.105.146:6060/play/a05a
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/h96fzRR/directvsports.png" group-title="Premium",DSports+
+http://190.119.178.46:8000/play/a051
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://i.ibb.co/nQvKT6v/fox-sports-1.png" group-title="Premium",Fox Sports 1
 http://45.5.119.106:8000/play/a034
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://i.ibb.co/ZY4RxpY/fox-sports-2.png" group-title="Premium",Fox Sports 2
