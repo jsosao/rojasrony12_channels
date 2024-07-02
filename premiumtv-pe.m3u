@@ -103,11 +103,11 @@ http://181.78.105.146:6060/play/a02p
 http://190.119.178.46:8000/play/a00c
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6bgwWQP/claro-sports.png" group-title="Deportes",Claro Sports
 http://181.78.105.146:6060/play/a05a
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://i.ibb.co/nQvKT6v/fox-sports-1.png" group-title="Deportes",Fox Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nQvKT6v/fox-sports-1.png" group-title="Deportes",Fox Sports 1
 http://45.5.119.106:8000/play/a034
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://i.ibb.co/ZY4RxpY/fox-sports-2.png" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZY4RxpY/fox-sports-2.png" group-title="Deportes",Fox Sports 2
 http://45.5.119.106:8000/play/a035
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://i.ibb.co/BGFwfDY/fox-sports-3.png" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGFwfDY/fox-sports-3.png" group-title="Deportes",Fox Sports 3
 http://45.5.119.106:8000/play/a036
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FJgzYBb/Tigo-sports.png" group-title="Deportes",Tigo Sports
 http://190.119.178.46:8000/play/a01z
@@ -243,9 +243,9 @@ http://177.234.247.66:8888/play/a082
 http://181.78.105.146:6060/play/a05q
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k1kv2tD/multipremier.png" group-title="Cine y Series",Multipremier
 http://190.119.178.46:8000/play/a028
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="Cine y Series",Golden
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="Cine y Series",Golden
 http://45.226.67.3:58001/play/a01r
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.ibb.co/DpskS1T/sony-cine.png" group-title="Cine y Series",Sony Cine
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DpskS1T/sony-cine.png" group-title="Cine y Series",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6trDS68/action.png" group-title="Cine y Series",Action
 http://51.159.104.29:8080/action/index.m3u8
@@ -287,9 +287,9 @@ http://181.78.8.90:16123/play/ch55
 http://181.78.8.90:16123/play/ch56
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Pjmzyvw/mi-musica-romantica.png" group-title="Musica",MiMusica Romantica
 http://181.78.8.90:16123/play/ch54
-#EXTINF:-1 tvg-id="" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Musica",VM Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8KCgvD9/vmlatino.jpg" group-title="Musica",VM Latino
 https://live-evg4.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="Internacionales",RTVE La 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jkj8d6r/la1.jpg" group-title="Internacionales",RTVE La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Dpsp9J9/dsports.png" group-title="Internacionales",Dsports
 http://177.53.155.236:8000/play/a0co
@@ -313,7 +313,7 @@ https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
 http://177.234.247.66:8888/play/a01f
 #EXTINF:-1 tvg-id="VENUS.pe" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="+18 Adultos",Venus
 http://190.119.178.46:8000/play/a01q
-#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.ibb.co/vXBWRdj/brazzerstv.png" group-title="+18 Adultos",Brazzers TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vXBWRdj/brazzerstv.png" group-title="+18 Adultos",Brazzers TV
 http://31.131.136.4:8000/play/a00z
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kJr5K0K/dorceltv.png" group-title="+18 Adultos",Dorcel TV
 http://31.131.136.4:8000/play/a001
