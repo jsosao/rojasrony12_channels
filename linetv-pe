@@ -77,28 +77,8 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",LimaLive
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",RCR TV
-https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",Región TV Callao
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",San Borja TV
-https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",TVOne
 https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",Top FM TV
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",TV Cosmos
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",Bella Asunción TV
-https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",Hoynet
-https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Locales",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Nova TV Star [Amazonas]
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Impacto TV [Ancash]
@@ -207,7 +187,115 @@ https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Ucayali TV [Ucayali]
 http://stream.fuegoplayer.com/ucayalitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",RT Noticias
-https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jkj8d6r/la1.jpg" group-title="Extranjeros",RTVE La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",RTVE La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",RT Noticias
+https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
