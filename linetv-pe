@@ -79,131 +79,131 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rH5bSft/tvone.jpg" group-title="Locales",TVOne
 https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Nova TV Star [Amazonas]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Amazonas] Nova TV Star
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Planeta TV [Amazonas]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Amazonas] Planeta TV
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Impacto TV [Ancash]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Ancash] Impacto TV
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Quassar Televisión [Ancash]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Ancash] Quassar Televisión
 https://gnstreammedia.com:19360/4000/4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Agro TV [Apurimac]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Apurimac] Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Telesur Camana [Arequipa]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Arequipa] Telesur Camana 
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Mega TV [Arequipa]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Arequipa] Mega TV 
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Controversia TV [Arequipa]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Arequipa] Controversia TV 
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Visión Sur TV [Arequipa]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Arequipa] Visión Sur TV 
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Canal 33 [Ayacucho]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Ayacucho] Canal 33
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Turbo Mix Radio TV [Cajamarca]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Cajamarca] Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",DMJ [Cusco]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Cusco] DMJ 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",QT Televisión [Cusco]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Cusco] QT Televisión 
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",TV Sistemas Cusco [Cusco]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Cusco] TV Sistemas Cusco 
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",TVenLinea [Cusco]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Cusco] TVenLinea 
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Unitel TV [Junin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Junin] Unitel TV 
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Miel TV [Junin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Junin] Miel TV 
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Nativa TV Satipo [Junin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Junin] Nativa TV Satipo 
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sol Televisión [La Libertad]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[La Libertad] TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[La Libertad] Sol Televisión
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Doble AA [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] Doble AA 
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Nova TV Star [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] Nova TV Star 
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Radio Televisión Oriente [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] Radio Televisión Oriente 
 https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",RN Televisión [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] RN Televisión 
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",RTV Total Yurimaguas [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] RTV Total Yurimaguas 
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Super Canal Yurimaguas [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] Super Canal Yurimaguas 
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Telecolor [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] Telecolor 
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Uranio TV [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] Uranio TV 
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Viva TV Yurimaguas [Loreto]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Loreto] Viva TV Yurimaguas 
 https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Telesur Ilo [Moquegua]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Moquegua] Telesur Ilo
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Telesur Moquegua [Moquegua]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Moquegua] Telesur Moquegua
 https://1667517699.rsc.cdn77.org/hls/Moquegua.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Canal 8 Catacaos [Piura]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Piura] Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Planeta TV [Puno]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Puno] Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Auténtica Televisión [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Auténtica Televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Antares Televisión [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Antares Televisión 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Auténtica Televisión [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Auténtica Televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",CR Televisión [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] CR Televisión 
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Contacto TV [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Contacto TV 
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Cumo TV [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Cumo TV 
 https://live.obslivestream.com/cumo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Vía Altomayo [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Vía Altomayo 
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Genios TV [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Genios TV 
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Master Televisión [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Master Televisión 
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Millenium TV  [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Millenium TV  
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",NorSelva RTV [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] NorSelva RTV 
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Planeta TV [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Planeta TV 
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Teleselva [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Teleselva 
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Tropical TV [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Tropical TV 
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Radio Selva Televisión [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Radio Selva Televisión 
 https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",SanjuaneraTV [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] SanjuaneraTV 
 https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",TV Juanjui [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] TV Juanjui 
 https://tv1.mediacp.eu:3573/live/qpufhwtflive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Vinilos TV [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Vinilos TV 
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Vía Televisión [San Martin]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Vía Televisión 
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Tumpes TV [Tumbes]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Tumbes] Tumbes TV 
 https://servilive.com:3531/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Hechicera TV [Tumbes]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Tumbes] Hechicera TV 
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Ribereña TV [Ucayali]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Ucayali] Ribereña TV 
 https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Oriental TV [Ucayali]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Ucayali] Oriental TV 
 https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Top TV [Ucayali]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Ucayali] Top TV 
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Ucayali TV [Ucayali]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Ucayali] Ucayali TV 
 http://stream.fuegoplayer.com/ucayalitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Online] Bella Asunción TV
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[Online],Hoynet
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",[ES] La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",[ES] La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",RT Noticias
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",[RU] RT Noticias
 https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Extranjeros",Sin señal
 https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
