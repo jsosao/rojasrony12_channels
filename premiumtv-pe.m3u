@@ -99,9 +99,9 @@ http://190.61.55.186:1010/play/a019
 http://190.61.55.186:1010/play/a00w
 #EXTINF:-1 tvg-id="GOLPERU HD.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="Deportes",Gol Perú
 http://190.61.55.186:1010/play/a010
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3dQrR7q/win-sports.png" group-title="Internacionales",Win Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3dQrR7q/win-sports.png" group-title="Deportes",Win Sports
 http://190.61.55.186:1010/play/a01m
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JmQ37GM/win-sports.png" group-title="Internacionales",Win Sports+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JmQ37GM/win-sports.png" group-title="Deportes",Win Sports+
 http://190.61.55.186:1010/play/a00n
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N6JKr5Y/tnt-sports.png" group-title="Deportes",TNT Sports
 http://190.61.55.186:1010/play/a01k
