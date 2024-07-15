@@ -233,12 +233,12 @@ http://190.61.55.186:1010/play/a00b
 http://190.61.55.186:1010/play/a01t
 #EXTINF:-1 tvg-id="Tl Novelas.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Novelas",Tlnovelas
 http://177.234.247.66:8888/play/a06m
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LzJpDv1/tntnovelas.jpg" group-title="Novelas",TNT Novelas
+http://177.234.247.66:8888/play/a030
 #EXTINF:-1 tvg-id="K-DRAMA.pe" tvg-logo="https://i.ibb.co/ZWxdKG5/kanal-DDrama.jpg" group-title="Novelas",Kanal D Drama
 http://177.234.247.66:8888/play/a029
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gzxyL9w/citytv.jpg" group-title="Novelas",City tv
 http://190.61.55.186:1010/play/a02i
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YZ8g6H8/veplus.jpg" group-title="Novelas",Ve Plus
-http://181.78.8.90:16123/play/ch36
 #EXTINF:-1 tvg-id="E.pe" tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="Entretenimiento",E!
 http://177.234.247.66:8888/play/a02p
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Entretenimiento",Lifetime
@@ -255,9 +255,9 @@ http://177.53.155.236:8000/play/a09o
 http://177.234.247.66:8888/play/a078
 #EXTINF:-1 tvg-id="HOME and HEALTH.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="Entretenimiento",Discovery H&H
 http://177.53.155.236:8000/play/a03t
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento",Cable Noticias
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="Noticias",Cable Noticias
 http://177.234.247.66:8888/play/a07c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento",Francia 24
+#EXTINF:-1 tvg-id="FRANCE24.pe" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="Noticias",France 24
 http://177.234.247.66:8888/play/a06x
 #EXTINF:-1 tvg-id="CNN ESPAÑOL.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="Noticias",CNN en Español
 http://190.61.55.186:1010/play/a02l
