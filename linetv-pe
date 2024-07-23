@@ -37,7 +37,7 @@ https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 https://www.ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="Locales",JN19
 https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="Locales",JN19 TV2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/brrWmN8/tele-vid.png" group-title="Locales",Tele VID
 https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Locales",ATV Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
