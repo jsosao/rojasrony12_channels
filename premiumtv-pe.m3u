@@ -119,6 +119,26 @@ http://45.5.117.182:8000/play/lh0jp
 http://45.5.117.182:8000/play/jnl0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KGp50KY/liga1max.png" group-title="Deportes",Liga 1 Max
 http://38.43.150.153:8000/play/a03e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports [AR]
+http://magmas5.com:8000/vidal130884/461G2TP4DW/132268
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports 2 [AR]
+http://magmas5.com:8000/vidal130884/461G2TP4DW/132270
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports 3 [AR]
+http://magmas5.com:8000/vidal130884/461G2TP4DW/132272
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports ᴾʳᵉᵐⁱᵘᵐ [AR]
+http://magmas5.com:8000/vidal130884/461G2TP4DW/131981
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Deportes [MX]
+http://magmas5.com:8000/vidal130884/461G2TP4DW/146542
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Claro Sports
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/14494
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Claro Sports 2
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/14493
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Claro Sports 3
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/14492
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Claro Sports 4
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/14491
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sin Señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Ciencia y Cultura",History
 http://38.41.8.1:8000/play/a005
 #EXTINF:-1 tvg-id="HISTORY 2.pe" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Ciencia y Cultura",History 2
@@ -139,6 +159,56 @@ http://38.41.8.1:8000/play/a018
 http://38.41.8.1:8000/play/a068
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Ciencia y Cultura",Discovery World
 http://177.234.247.66:8888/play/a024
+#EXTINF:-1 tvg-id="HBO HD.pe" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
+http://38.41.8.1:8000/play/a01u
+#EXTINF:-1 tvg-id="HBO 2.pe" tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="Cine y Series",HBO 2
+http://38.41.8.1:8000/play/a021
+#EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-logo="https://i.ibb.co/TY2WjMm/hbo-plus.jpg" group-title="Cine y Series",HBO+
+http://38.41.8.1:8000/play/a05i
+#EXTINF:-1 tvg-id="HBO FAMILY.pe" tvg-logo="https://i.ibb.co/0BZnBQJ/hbo-family.png" group-title="Cine y Series",HBO Family
+http://38.41.8.1:8000/play/a031
+#EXTINF:-1 tvg-id="HBO POP.pe" tvg-logo="https://i.ibb.co/Y2kLJ4d/hbo-Pop.png" group-title="Cine y Series",HBO Pop
+http://38.41.8.1:8000/play/a00d
+#EXTINF:-1 tvg-id="HBO SIGNATURE.pe" tvg-logo="https://i.ibb.co/Z1L2LR1/hbo-signature.png" group-title="Cine y Series",HBO Signature
+http://177.234.247.66:8888/play/a067
+#EXTINF:-1 tvg-id="HBO XTREME.pe" tvg-logo="https://i.ibb.co/k4SrHdb/hbo-xtreme.png" group-title="Cine y Series",HBO Xtreme
+http://38.41.8.1:8000/play/a032
+#EXTINF:-1 tvg-id="HBO XTREME.pe" tvg-logo="https://i.ibb.co/7S0Pg3v/hbo-mundi.png" group-title="Cine y Series",HBO Mundi
+http://magmas5.com:8000/vidal130884/461G2TP4DW/4800
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6trDS68/action.png" group-title="Cine y Series",[FR] Action
+http://51.159.104.29:8080/action/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DpskS1T/sony-cine.png" group-title="Cine y Series",[US] Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fvQv0xz/universal-cinema.png" group-title="Cine y Series",Universal Cinema
+http://38.41.8.1:8000/play/a05q
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sd3GBhy/universal-comedy.png" group-title="Cine y Series",Universal Comedy
+http://38.41.8.1:8000/play/a05r
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/71WjFhg/universal-crime.png" group-title="Cine y Series",Universal Crime
+http://177.53.155.236:8000/play/a093
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1TjWj45/universal-premiere.png" group-title="Cine y Series",Universal Premiere
+http://38.41.8.1:8000/play/a05p
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y0wjHYj/universal-reality.png" group-title="Cine y Series",Universal Reality
+http://177.53.155.236:8000/play/a092
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CQmLJMg/golden.png" group-title="Cine y Series",Golden
+http://magmas5.com:8000/vidal130884/461G2TP4DW/150099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DDCJCPf/golden-edge.png" group-title="Cine y Series",Golden EDGE
+http://magmas5.com:8000/vidal130884/461G2TP4DW/150100
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3Rxr6Qr/golden-plus.png" group-title="Cine y Series",Golden Plus
+http://magmas5.com:8000/vidal130884/461G2TP4DW/150101
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5FbGy9x/golden-premier.png" group-title="Cine y Series",Golden Premier
+http://magmas5.com:8000/vidal130884/461G2TP4DW/150102
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xLbWYGk/golden-premier2.png" group-title="Cine y Series",Golden Premier 2
+http://45.226.67.3:58001/play/a05v
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0KBbXVT/cine-familiar.png" group-title="Cine y Series",Cine Familiar
+http://177.234.247.66:8888/play/a083
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y8R4q3q/cine-hispano.png" group-title="Cine y Series",Cine Hispano
+http://177.234.247.66:8888/play/a081
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZW4R6qC/cine-premium.png" group-title="Cine y Series",Cine Premium
+http://177.234.247.66:8888/play/a082
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r4Nj5CK/multicinema.png" group-title="Cine y Series",Multicinema
+http://45.226.67.3:58001/play/a06a
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k1kv2tD/multipremier.png" group-title="Cine y Series",Multipremier
+http://45.226.67.3:58001/play/a06s
 #EXTINF:-1 tvg-id="AandE.pe" tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="Cine y Series",A&E
 http://38.41.8.1:8000/play/a006
 #EXTINF:-1 tvg-id="AMC HD.pe" tvg-logo="https://i.ibb.co/HCdPs9q/amc.png" group-title="Cine y Series",AMC
@@ -159,36 +229,6 @@ http://177.234.247.66:8888/play/a05x
 http://177.234.247.66:8888/play/a07r
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Cine y Series",FX
 http://38.41.8.1:8000/play/a01h
-#EXTINF:-1 tvg-id="HBO HD.pe" tvg-logo="https://i.ibb.co/SRf0jV9/hbo.png" group-title="Cine y Series",HBO
-http://38.41.8.1:8000/play/a01u
-#EXTINF:-1 tvg-id="HBO 2.pe" tvg-logo="https://i.ibb.co/9tRJhmY/HBO2.png" group-title="Cine y Series",HBO 2
-http://38.41.8.1:8000/play/a021
-#EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-logo="https://i.ibb.co/TY2WjMm/hbo-plus.jpg" group-title="Cine y Series",HBO+
-http://38.41.8.1:8000/play/a05i
-#EXTINF:-1 tvg-id="HBO FAMILY.pe" tvg-logo="https://i.ibb.co/0BZnBQJ/hbo-family.png" group-title="Cine y Series",HBO Family
-http://38.41.8.1:8000/play/a031
-#EXTINF:-1 tvg-id="HBO POP.pe" tvg-logo="https://i.ibb.co/Y2kLJ4d/hbo-Pop.png" group-title="Cine y Series",HBO Pop
-http://38.41.8.1:8000/play/a00d
-#EXTINF:-1 tvg-id="HBO SIGNATURE.pe" tvg-logo="https://i.ibb.co/Z1L2LR1/hbo-signature.png" group-title="Cine y Series",HBO Signature
-http://177.234.247.66:8888/play/a067
-#EXTINF:-1 tvg-id="HBO XTREME.pe" tvg-logo="https://i.ibb.co/k4SrHdb/hbo-xtreme.png" group-title="Cine y Series",HBO Xtreme
-http://38.41.8.1:8000/play/a032
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0KBbXVT/cine-familiar.png" group-title="Cine y Series",Cine Familiar
-http://177.234.247.66:8888/play/a083
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y8R4q3q/cine-hispano.png" group-title="Cine y Series",Cine Hispano
-http://177.234.247.66:8888/play/a081
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZW4R6qC/cine-premium.png" group-title="Cine y Series",Cine Premium
-http://177.234.247.66:8888/play/a082
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fvQv0xz/universal-cinema.png" group-title="Cine y Series",Universal Cinema
-http://38.41.8.1:8000/play/a05q
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sd3GBhy/universal-comedy.png" group-title="Cine y Series",Universal Comedy
-http://38.41.8.1:8000/play/a05r
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/71WjFhg/universal-crime.png" group-title="Cine y Series",Universal Crime
-http://177.53.155.236:8000/play/a093
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1TjWj45/universal-premiere.png" group-title="Cine y Series",Universal Premiere
-http://38.41.8.1:8000/play/a05p
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y0wjHYj/universal-reality.png" group-title="Cine y Series",Universal Reality
-http://177.53.155.236:8000/play/a092
 #EXTINF:-1 tvg-id="PARAMOUNT.pe" tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="Cine y Series",Paramount
 http://38.41.8.1:8000/play/a01x
 #EXTINF:-1 tvg-id="SONY.pe" tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Cine y Series",Sony Channel
@@ -285,10 +325,10 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fh829Jq/rt.png" group-title="Extranjeros",[RU] RT Noticias
 https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6trDS68/action.png" group-title="Extranjeros",[FR] Action
-http://51.159.104.29:8080/action/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DpskS1T/sony-cine.png" group-title="Extranjeros",[US] Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sin Señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sin Señal
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
 #EXTINF:-1 tvg-id="PLAYBOY HD.pe" tvg-logo="https://i.ibb.co/HHmXYWB/playboy.png" group-title="+18 Adultos",Playboy
 http://38.41.8.1:8000/play/a0b7
 #EXTINF:-1 tvg-id="VENUS.pe" tvg-logo="https://i.ibb.co/h7jhb7X/venus.png" group-title="+18 Adultos",Venus
@@ -299,103 +339,3 @@ http://31.131.136.4:8000/play/a00z
 http://31.131.136.4:8000/play/a001
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mBZZ6ck/dorcelxxx.png" group-title="+18 Adultos",Dorcel XXX
 http://31.131.136.4:8000/play/a00h
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Live TV",Euro News
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Live TV",Claro Sports
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Live TV",Azteca Internacional
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/646cce4d1593940008a33f09livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Live TV",Corazón
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Live TV",Novelas
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Estelar
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Acción
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Estrellas en Acción
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Adrenalina Freezone
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Comedia
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Drama
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Romance
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Suspenso
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Crimen
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Terror
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Sci-Fi
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Runtime
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/62c5d80dc6de440007e033eblivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Nuestro Cine
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Clasico
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Movies",Cine Familia
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Macgyver
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Empeños a lo Bestia
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",El Encantador de Perros
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Dog El Cazarrecompensas
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Misterios
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Misterios sin Resolver
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Misterios Medicos
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Emergencias Bizarras
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/60492a1e6361250007679665/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Cazadores de Ovnis
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Series",Historias de Ultratumba
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Novelas",Series Latinas
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Novelas",Sin Tetas no hay Paraiso 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Novelas",Novelas MX
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Novelas",Novelas CO
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Novelas",Novelas VE
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Nickelodeon 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Nick Clasico 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Nick Teen 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Nick Jr. Club
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",ICarly 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Captain Tsubasa
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Retro Cartoons 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Rugrats 
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Dora la Exploradora
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/656e28a2954b020008ed133a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Los Padrinos Magicos
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Ben 10
-http://51.159.104.29:8080/ben10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Bod Esponja
-http://51.159.104.29:8080/bobesponja/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Malcom
-http://51.159.104.29:8080/malcom/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Mr. Bean
-http://51.159.104.29:8080/mrbean/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pluto-tv4908.jpg" group-title="Pluto TV Teen & Kids",Peppa Pig
-http://51.159.104.29:8080/pepapig/index.m3u8
