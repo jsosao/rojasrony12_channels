@@ -200,35 +200,35 @@ http://177.234.247.66:8888/play/a07r
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Cine y Series",FX
 http://38.41.8.1:8000/play/a01h
 #EXTINF:-1 tvg-id="PARAMOUNT.pe" tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="Cine y Series",Paramount
-http://38.41.8.1:8000/play/a01u
+http://38.41.8.1:8000/play/a01x
 #EXTINF:-1 tvg-id="SONY.pe" tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Cine y Series",Sony Channel
-http://38.41.8.1:8000/play/a021
+http://38.41.8.1:8000/play/a007
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://i.ibb.co/FJ8cdKb/sony-movies.png" group-title="Cine y Series",Sony Movies
-http://38.41.8.1:8000/play/a05i
+http://45.173.201.50:4000/play/a065
 #EXTINF:-1 tvg-id="SPACE.pe" tvg-logo="https://i.ibb.co/HrKT39m/space.png" group-title="Cine y Series",Space
-http://38.41.8.1:8000/play/a031
+http://38.41.8.1:8000/play/a00a
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="Cine y Series",Star Channel
-http://38.41.8.1:8000/play/a00d
+http://38.41.8.1:8000/play/a019
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL.pe" tvg-logo="https://i.ibb.co/M1kxMnB/studio-universal.png" group-title="Cine y Series",Studio Universal
-http://177.234.247.66:8888/play/a067
+http://38.41.8.1:8000/play/a01y
 #EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://i.ibb.co/SJtrSGv/tnt.png" group-title="Cine y Series",TNT 
-http://38.41.8.1:8000/play/a032
+http://38.41.8.1:8000/play/a00s
 #EXTINF:-1 tvg-id="TNT SERIES.pe" tvg-logo="https://i.ibb.co/gWTm7g0/tnt-series.png" group-title="Cine y Series",TNT Series
-http://177.234.247.66:8888/play/a083
+http://38.41.8.1:8000/play/a01g
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Cine y Series",Universal
-http://177.234.247.66:8888/play/a081
+http://38.41.8.1:8000/play/a01a
 #EXTINF:-1 tvg-id="USANetworkPanregional.us" tvg-logo="https://i.ibb.co/7CQ6jML/usa.jpg" group-title="Cine y Series",USA
-http://177.234.247.66:8888/play/a082
+http://38.41.8.1:8000/play/a057
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",Warner
-http://38.41.8.1:8000/play/a05q
+http://38.41.8.1:8000/play/a008
 #EXTINF:-1 tvg-id="TCM.pe" tvg-logo="https://i.ibb.co/8072twn/tcm.png" group-title="Cine y Series",TCM
-http://38.41.8.1:8000/play/a05r
+http://38.41.8.1:8000/play/a04x
 #EXTINF:-1 tvg-id="Film and Arts HD.pe" tvg-logo="https://i.ibb.co/F3Twpcc/film-arts.png" group-title="Cine y Series",Film&Art
-http://177.53.155.236:8000/play/a093
+http://177.53.153.227:8000/play/a03y
 #EXTINF:-1 tvg-id="CLOVER.pe" tvg-logo="https://i.ibb.co/VgHWd6n/clover-channel.png" group-title="Cine y Series",Clover
-http://38.41.8.1:8000/play/a05p
+http://177.234.247.66:8888/play/a00f
 #EXTINF:-1 tvg-id="Star TVE HD.pe" tvg-logo="https://i.ibb.co/ZSVYz10/startve.jpg" group-title="Cine y Series",Star Tve
-http://177.53.155.236:8000/play/a092
+http://38.41.8.1:8000/play/a01z
 #EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Musica",MTV
 http://177.234.247.66:8888/play/a036
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="Musica",MTV 00s
