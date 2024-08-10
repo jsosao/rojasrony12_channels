@@ -76,7 +76,7 @@ http://38.41.8.1:8000/play/a067
 #EXTINF:-1 tvg-id="NICK HD.pe" tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="Infantiles",Nickelodeon
 http://38.41.8.1:8000/play/a00i
 #EXTINF:-1 tvg-id="TeenNick.pe" tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="Infantiles",TeenNick
-http://177.53.153.227:8000/play/a03k
+http://45.5.117.182:8000/play/a0fg
 #EXTINF:-1 tvg-id="TOONCAST.pe" tvg-logo="https://i.ibb.co/jy4xxv3/tooncast.png" group-title="Infantiles",Tooncast
 http://177.234.247.66:8888/play/a05r
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
@@ -229,15 +229,15 @@ http://177.53.155.236:8000/play/a093
 http://38.41.8.1:8000/play/a05p
 #EXTINF:-1 tvg-id="Star TVE HD.pe" tvg-logo="https://i.ibb.co/ZSVYz10/startve.jpg" group-title="Cine y Series",Star Tve
 http://177.53.155.236:8000/play/a092
-#EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Musica",136 MTV
+#EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Musica",MTV
 http://177.234.247.66:8888/play/a036
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="Musica",137 MTV 00s
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="Musica",MTV 00s
 http://45.5.117.182:8000/play/a0if
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VHGz4zG/MTVlive.png" group-title="Musica",138 MTV Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VHGz4zG/MTVlive.png" group-title="Musica",MTV Live
 http://45.5.117.182:8000/play/a0ie
-#EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://i.ibb.co/8jT22CV/htv.png" group-title="Musica",139 HTV
+#EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://i.ibb.co/8jT22CV/htv.png" group-title="Musica",HTV
 http://177.234.247.66:8888/play/a07a
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8KCgvD9/vmlatino.jpg" group-title="Musica",140 VM Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8KCgvD9/vmlatino.jpg" group-title="Musica",VM Latino
 https://live-evg4.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="E.pe" tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="Entretenimiento",E!
 http://38.41.8.1:8000/play/a02c
@@ -267,11 +267,11 @@ http://190.61.55.186:1010/play/a02m
 http://177.53.153.227:8000/play/a065
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.ibb.co/ydc3grs/dw.png" group-title="Noticias",DW
 http://190.61.55.186:1010/play/a02n
-#EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Noticias",135 Canal N
+#EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Noticias",Canal N
 http://177.53.155.236:8000/play/a09p
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6trDS68/action.png" group-title="Extranjeros",144 [FR] Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6trDS68/action.png" group-title="Extranjeros",[FR] Action
 http://51.159.104.29:8080/action/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DpskS1T/sony-cine.png" group-title="Extranjeros",145 [US] Sony Cine
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DpskS1T/sony-cine.png" group-title="Extranjeros",[US] Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1qPJLjs/claro-sports.png" group-title="Extranjeros",[GT] Claro Sports
 http://45.5.117.182:8000/play/cj9t
@@ -279,9 +279,9 @@ http://45.5.117.182:8000/play/cj9t
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPnLj7f/aztecainternacional.jpg" group-title="Extranjeros",[MX] Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jkj8d6r/la1.jpg" group-title="Extranjeros",141 [ES] La 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jkj8d6r/la1.jpg" group-title="Extranjeros",[ES] La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8V9k68/la2.png" group-title="Extranjeros",142 [ES] La 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8V9k68/la2.png" group-title="Extranjeros",[ES] La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f0gnmpP/24h.jpg" group-title="Extranjeros",[ES] 24H
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
