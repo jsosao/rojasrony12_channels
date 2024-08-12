@@ -158,7 +158,7 @@ http://38.41.8.1:8000/play/a01x
 #EXTINF:-1 tvg-id="SONY.pe" tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Cine y Series",Sony Channel
 http://38.41.8.1:8000/play/a007
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://i.ibb.co/FJ8cdKb/sony-movies.png" group-title="Cine y Series",Sony Movies
-http://45.173.201.50:4000/play/a065
+http://177.234.247.66:8888/play/a01l
 #EXTINF:-1 tvg-id="SPACE.pe" tvg-logo="https://i.ibb.co/HrKT39m/space.png" group-title="Cine y Series",Space
 http://38.41.8.1:8000/play/a00a
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="Cine y Series",Star Channel
@@ -214,7 +214,7 @@ http://38.41.8.1:8000/play/a00r
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Entretenimiento",Lifetime
 http://38.41.8.1:8000/play/a056
 #EXTINF:-1 tvg-id="M PLUS.pe" tvg-logo="https://i.ibb.co/HT1GLJ5/movistar-plus.png" group-title="Entretenimiento",Movistar Plus
-http://38.43.150.153:8000/play/a030
+http://177.234.247.66:8888/play/a06c
 #EXTINF:-1 tvg-id="CaracolPremium.co" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="Novelas",Caracol
 http://38.41.8.1:8000/play/a02v
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gzxyL9w/citytv.jpg" group-title="Novelas",City tv
