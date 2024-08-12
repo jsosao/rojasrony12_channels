@@ -48,7 +48,7 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.ibb.co/LQkyVtg/matices.png" group-title="Locales",MaticesTV
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 #EXTINF:-1 tvg-id="BethelTV.pe" tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Locales",Bethel TV
-https://cast.tx.bethel.live7.la:3852/live/betheltvlive.m3u8
+http://177.234.247.66:8888/play/a08c
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MCd482z/trivu.png" group-title="Locales",Trivu TV
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/K96tQYZ/bh-tv.png" group-title="Locales",BHTV
