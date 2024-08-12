@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml"
 #EXTINF:-1 tvg-id="AandE.pe" tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="Cine y Series"
 http://38.41.8.1:8000/play/a006
 #EXTINF:-1 tvg-id="ADULT SWIM.pe" tvg-logo="https://i.ibb.co/bXzTMzH/adult-swim.png" group-title="Infantiles"
