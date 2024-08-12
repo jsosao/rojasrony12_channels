@@ -44,7 +44,7 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/1dpQd42/telelima.png" group-title="Locales",Telelima
 http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="Locales",Onda Digital
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+https://tv.ondadigital.pe:1936/ondatv/ondatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.ibb.co/LQkyVtg/matices.png" group-title="Locales",MaticesTV
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 #EXTINF:-1 tvg-id="BethelTV.pe" tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Locales",Bethel TV
@@ -66,7 +66,11 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://i.ibb.co/xMRsnvL/ipe.png" group-title="Locales",Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="Locales",Onda Digital
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="Locales",Onda Digital 2
+https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="Locales",Onda Digital 3 Radio
+https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C7C6Cp6/ovaciontv.jpg" group-title="Locales",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/98Y0cWm/usiltv.png" group-title="Locales",USIL TV
@@ -155,8 +159,6 @@ https://live.obslivestream.com/planetatv/index.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Antares Televisión 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Auténtica Televisión 
-https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] CR Televisión 
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Regionales",[San Martin] Contacto TV 
@@ -209,13 +211,7 @@ https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streaming",[Online] Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streaming",[Online] Nazarenas TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Streaming",[Online] RCR TV
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sin señal
-https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
