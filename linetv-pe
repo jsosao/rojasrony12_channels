@@ -24,7 +24,7 @@ http://bantel.iptvperu.tv:1935/cdntij/vivatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="USMP TV.pe" tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="Locales",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="Locales",Global TV
-http://bantel.iptvperu.tv:1935/cdntij/global.stream/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1nqMHyT/justicia-tv.png" group-title="Locales",Justicia TV
 http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="Locales",Karibeña
@@ -32,7 +32,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tM0xqyx/usmptv-musica.png" group-title="Locales",USMP TV Music
 http://bantel.iptvperu.tv:1935/cdnrhj/usmptv_musica.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="LikeTV.pe" tvg-logo="https://i.ibb.co/hW2jMgb/like-tv.png" group-title="Locales",Like TV
-https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+https://live-evg9.tv360.bitel.com.pe/fuegotvvivo12112021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nativa Tv.pe" tvg-logo="https://i.ibb.co/M5fLVxj/nativa.png" group-title="Locales",Nativa
 https://www.ntv.pe/salida/nativa.m3u8
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="Locales",JN19
@@ -44,11 +44,11 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/1dpQd42/telelima.png" group-title="Locales",Telelima
 http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="Locales",Onda Digital
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+https://tv.ondadigital.pe:1936/ondatv/ondatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.ibb.co/LQkyVtg/matices.png" group-title="Locales",MaticesTV
-https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+http://bantel.iptvperu.tv:1935/cdnnjf/MaticesTV/chunks.m3u8
 #EXTINF:-1 tvg-id="BethelTV.pe" tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Locales",Bethel TV
-http://177.234.247.66:8888/play/a08c
+https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MCd482z/trivu.png" group-title="Locales",Trivu TV
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/K96tQYZ/bh-tv.png" group-title="Locales",BHTV
@@ -102,7 +102,7 @@ http://38.41.8.1:8000/play/a02j
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N6JKr5Y/tnt-sports.png" group-title="Deportes",TNT Sports
 http://38.41.8.1:8000/play/a0bn
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9vDp8N2/tyc-sports.png" group-title="Deportes",TyC Sports Internacional
-http://177.53.155.236:8000/play/a00s
+http://177.234.247.66:8888/play/a02v
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="Deportes",Movistar Deportes
 http://38.41.8.1:8000/play/a026
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3dQrR7q/win-sports.png" group-title="Deportes",Win Sports
@@ -242,9 +242,9 @@ http://177.53.155.236:8000/play/a09p
 #EXTINF:-1 tvg-id="CNN ESPAÑOL.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="Noticias",CNN en Español
 http://38.41.8.1:8000/play/a059
 #EXTINF:-1 tvg-id="CNN Premium.pe" tvg-logo="https://i.ibb.co/L0mzfZ3/cnninternational.jpg" group-title="Noticias",CNN International
-http://190.61.55.186:1010/play/a02m
+http://177.53.155.236:8000/play/a029
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.ibb.co/ydc3grs/dw.png" group-title="Noticias",DW
-http://190.61.55.186:1010/play/a02n
+http://177.234.247.66:8888/play/a07v
 #EXTINF:-1 tvg-id="FRANCE24.pe" tvg-logo="https://i.ibb.co/L5355p0/france24.jpg" group-title="Noticias",France 24
 http://177.234.247.66:8888/play/a06x
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="Noticias",RPP
