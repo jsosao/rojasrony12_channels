@@ -28,7 +28,7 @@ http://181.78.12.119:16123/play/ch49
 http://38.41.8.1:8000/play/a01r
 #EXTINF:-1 tvg-id="CINEMAX.pe" tvg-logo="https://i.ibb.co/jkfZ903/cinemax.png" group-title="Cine y Series",Cinemax
 http://38.41.8.1:8000/play/a00y
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gzxyL9w/citytv.jpg" group-title="Novelas",City tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gzxyL9w/citytv.jpg" group-title="Noticias",City tv
 http://38.41.8.1:8000/play/a06x
 #EXTINF:-1 tvg-id="CLOVER.pe" tvg-logo="https://i.ibb.co/VgHWd6n/clover-channel.png" group-title="Cine y Series",Clover
 http://177.234.247.66:8888/play/a00f
