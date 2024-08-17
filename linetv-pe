@@ -199,7 +199,7 @@ http://177.234.247.66:8888/play/a06c
 http://177.234.247.66:8888/play/a036
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="Música",MTV 00s
 http://45.5.117.182:8000/play/a0if
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hR7vX9Y/mtv80.jpg" group-title="Música",MTV Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hR7vX9Y/mtv80.jpg" group-title="Música",MTV 80s
 http://45.5.117.182:8000/play/a0f2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VHGz4zG/MTVlive.png" group-title="Música",MTV Live
 http://45.5.117.182:8000/play/a0ie
