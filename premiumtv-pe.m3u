@@ -303,9 +303,9 @@ http://45.5.117.182:8000/play/a0zo3
 http://45.5.117.182:8000/play/a0kf
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="Premium Deportes",ESPN 3 [MX]
 http://45.5.117.182:8000/play/a0kg
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6tvjWMW/espnPremium Deportes.png" group-title="Premium Deportes",ESPN Premium Deportes [MX]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6tvjWMW/espnPremium Deportes.png" group-title="Premium Deportes",ESPN Deportes [MX]
 http://45.5.117.182:8000/play/tfc0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SJZD4NS/foxPremium Deportes.png" group-title="Premium Deportes",Fox Premium Deportes [MX]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SJZD4NS/foxPremium Deportes.png" group-title="Premium Deportes",Fox Deportes [MX]
 http://magmas5.com:8000/live/vidal130884/461G2TP4DW/145429.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/87WCnXV/foxPremium.png" group-title="Premium Deportes",Fox Premium [MX]
 http://45.5.117.182:8000/play/j0b9
@@ -355,15 +355,15 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xFCQLdM/tdp.jpg" group-title="Premium Internacional",Teledeporte [ES]
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3S4CpL4/mi-musica-regional.png" group-title="Premium Música",Mi Premium Música Regional
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3S4CpL4/mi-musica-regional.png" group-title="Premium Música",Mi Música Regional
 http://160.20.165.246:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b3Dz7S0/mi-musica-popular.png" group-title="Premium Música",Mi Premium Música Popular
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b3Dz7S0/mi-musica-popular.png" group-title="Premium Música",Mi Música Popular
 http://181.78.12.119:16123/play/ch56
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Gtb1s87/mi-musica-reggaeton.png" group-title="Premium Música",Mi Premium Música Reggaeton
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Gtb1s87/mi-musica-reggaeton.png" group-title="Premium Música",Mi Música Reggaeton
 http://181.78.12.119:16123/play/ch53
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Pjmzyvw/mi-musica-romantica.png" group-title="Premium Música",Mi Premium Música Romántica
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Pjmzyvw/mi-musica-romantica.png" group-title="Premium Música",Mi Música Romántica
 http://181.78.12.119:16123/play/ch54
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HdnwV5H/mi-musica-salsa.png" group-title="Premium Música",Mi Premium Música Salsa
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HdnwV5H/mi-musica-salsa.png" group-title="Premium Música",Mi Música Salsa
 http://181.78.12.119:16123/play/ch55
 #EXTINF:-1 tvg-id="MTV 00S.pe" tvg-logo="https://i.ibb.co/fkTfzFs/mtv00s.png" group-title="Premium Música",MTV 00s
 http://45.5.117.182:8000/play/a0if
