@@ -337,23 +337,23 @@ http://38.41.8.1:8000/play/a02i
 http://38.41.8.1:8000/play/a00e
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JmQ37GM/win-sports.png" group-title="Premium Deportes",Win Sports+
 http://38.41.8.1:8000/play/a0c0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f0gnmpP/24h.jpg" group-title="Premium Internacional",[ES] 24H
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f0gnmpP/24h.jpg" group-title="Premium Internacional",24H [ES]
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPnLj7f/aztecaPremium Internacional.jpg" group-title="Premium Premium Internacional",[MX] Azteca Premium Internacional
 http://45.5.117.182:8000/play/a0hn
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM3xnk9/bbcnews.jpg" group-title="Premium Internacional",[UK] BBC News
 http://45.5.117.182:8000/play/a0f7
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M7XpBmy/clan.jpg" group-title="Premium Internacional",[ES] Clan
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M7XpBmy/clan.jpg" group-title="Premium Internacional",Clan [ES]
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nghFgj6/euronews.jpg" group-title="Premium Internacional",[FR] Euronews
 https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jkj8d6r/la1.jpg" group-title="Premium Internacional",[ES] La 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jkj8d6r/la1.jpg" group-title="Premium Internacional",La 1 [ES] 
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8V9k68/la2.png" group-title="Premium Internacional",[ES] La 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8V9k68/la2.png" group-title="Premium Internacional",La 2 [ES]
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fh829Jq/rt.png" group-title="Premium Internacional",[RU] RT Noticias
 https://streamtv.onliv3.Online:1936/exito-tv/exito-tv/chunklist_w494809089.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xFCQLdM/tdp.jpg" group-title="Premium Internacional",[ES] Teledeporte
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xFCQLdM/tdp.jpg" group-title="Premium Internacional",Teledeporte [ES]
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3S4CpL4/mi-musica-regional.png" group-title="Premium Premium Música",Mi Premium Música Regional
 http://160.20.165.246:8000/play/a019/index.m3u8
