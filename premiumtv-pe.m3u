@@ -155,7 +155,7 @@ http://177.53.155.236:8000/play/a03q
 http://38.41.8.1:8000/play/a01h
 #EXTINF:-1 tvg-id="GOLPERU HD.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="Deportes",Gol Perú
 http://38.41.8.1:8000/play/a02j
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GCN4HVW/golfchannel.png" group-title="Deportes+",Golf Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GCN4HVW/golfchannel.png" group-title="Deportes",Golf Channel
 http://45.5.117.182:8000/play/a0fv
 #EXTINF:-1 tvg-id="GOL TV HD.pe" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="Deportes",GolTV
 http://38.41.8.1:8000/play/a02d
