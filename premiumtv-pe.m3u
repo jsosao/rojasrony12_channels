@@ -339,7 +339,7 @@ http://38.41.8.1:8000/play/a00e
 http://38.41.8.1:8000/play/a0c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/f0gnmpP/24h.jpg" group-title="Premium Internacional",24H [ES]
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPnLj7f/aztecaPremium Internacional.jpg" group-title="Premium Premium Internacional",Azteca Internacional [MX]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPnLj7f/aztecaPremium Internacional.jpg" group-title="Premium Internacional",Azteca Internacional [MX]
 http://45.5.117.182:8000/play/a0hn
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM3xnk9/bbcnews.jpg" group-title="Premium Internacional",BBC News [UK]
 http://45.5.117.182:8000/play/a0f7
