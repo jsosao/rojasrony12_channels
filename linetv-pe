@@ -71,7 +71,7 @@ http://38.41.8.1:8000/play/a023
 http://181.78.12.119:16123/play/a0a5
 #EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="Cine y Series",AXN
 http://38.41.8.1:8000/play/a009
-#EXTINF:-1 tvg-id="BABY TV.pe" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="Infantiles"Baby TV
+#EXTINF:-1 tvg-id="BABY TV.pe" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="Infantiles",Baby TV
 http://181.78.12.119:16123/play/ch01
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYPM6fN/cablenoticias.jpg" group-title="Noticias",Cable Noticias
 http://190.60.40.37:12500/play/a07g
