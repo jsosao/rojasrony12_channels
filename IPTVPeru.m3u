@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Locales",Willax TV
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="Locales",Latina
@@ -40,7 +40,7 @@ https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/brrWmN8/tele-vid.png" group-title="Locales",Tele VID
 https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Locales",ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/1dpQd42/telelima.png" group-title="Locales",Telelima
 http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="Locales",Onda Digital
@@ -87,129 +87,119 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 group-title="Locales",USIL TV
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Amazonas] Nova TV Star
+#EXTINF:-1 group-title="Región Selva",Nova TV Star
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 group-title="Regionales",[Amazonas] Planeta TV
+#EXTINF:-1 group-title="Región Selva",Planeta TV
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
-#EXTINF:-1 group-title="Regionales",[Ancash] Impacto TV
+#EXTINF:-1 group-title="Región Costa",Impacto TV
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Ancash] Quassar Televisión
-https://gnstreammedia.com:19360/4000/4000.m3u8
-#EXTINF:-1 group-title="Regionales",[Apurimac] Agro TV
+#EXTINF:-1 group-title="Región Sierra",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Arequipa] Telesur Camana 
+#EXTINF:-1 group-title="Región Sierra",Telesur Camana 
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:-1 group-title="Regionales",[Arequipa] Mega TV
+#EXTINF:-1 group-title="Región Sierra",Mega TV
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 group-title="Regionales",[Arequipa] Controversia TV 
+#EXTINF:-1 group-title="Región Sierra",Controversia TV 
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Arequipa] Visión Sur TV 
+#EXTINF:-1 group-title="Región Sierra",Visión Sur TV 
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[Ayacucho] Canal 33
-https://video2.getstreamhosting.com:19360/8206/8206.m3u8
-#EXTINF:-1 group-title="Regionales",[Cajamarca] Turbo Mix Radio TV
+#EXTINF:-1 group-title="Región Sierra",Atlantis Ayacucho
+https://live-evg25.tv360.bitel.com.pe/bitel/atlantis/chunks.m3u8
+#EXTINF:-1 group-title="Región Sierra",Canal 25 Ayacucho
+https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Región Sierra",Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 group-title="Regionales",[Cusco] CTC
+#EXTINF:-1 group-title="Región Sierra",CTC
 https://live-evg25.tv360.bitel.com.pe/bitel/ctc/bitel/ctc_ori_360p/chunks.m3u8
-#EXTINF:-1 group-title="Regionales",[Cusco] DMJ 
+#EXTINF:-1 group-title="Región Sierra",DMJ 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[Cusco] QT Televisión 
+#EXTINF:-1 group-title="Región Sierra",QT Televisión 
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 group-title="Regionales",[Cusco] TV Sistemas Cusco 
+#EXTINF:-1 group-title="Región Sierra",TV Sistemas Cusco 
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[Cusco] TVenLinea 
+#EXTINF:-1 group-title="Región Sierra",TV en Linea 
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 group-title="Regionales",[Junin] Miel TV 
+#EXTINF:-1 group-title="Región Sierra",Miel TV 
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 group-title="Regionales",[Junin] Nativa TV Satipo 
+#EXTINF:-1 group-title="Región Sierra",Nativa TV Satipo 
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 group-title="Regionales",[Junin] Unitel TV 
+#EXTINF:-1 group-title="Región Sierra",Unitel TV 
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:-1 group-title="Regionales",[La Libertad] Sol Televisión
+#EXTINF:-1 group-title="Región Costa",Sol Televisión
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[La Libertad] TV Cosmos
+#EXTINF:-1 group-title="Región Costa",TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] CNC Digital Iquitos
+#EXTINF:-1 group-title="Región Costa",CNC Digital Iquitos
 https://vdo.grupolimalive.com/p/3237/live/cnctvlive.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] Doble AA
-https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] Nova TV Star
-https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] Radio Televisión Oriente
-https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] RN Televisión
-https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] RTV Total Yurimaguas
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] Super Canal Yurimaguas
-https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] Telecolor
-https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] Uranio TV
-https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Loreto] Viva TV Yurimaguas
-https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Lambayeque] TV Norte
+#EXTINF:-1 group-title="Región Costa",49 TV Lambayeque
+https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
+#EXTINF:-1 group-title="Región Costa",TV Norte
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
-#EXTINF:-1 group-title="Regionales",[Moquegua] Telesur Ilo
+#EXTINF:-1 group-title="Región Selva",Nova TV Star
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 group-title="Región Selva",Radio Televisión Oriente
+https://live.obslivestream.com/tvoriente/index.m3u8
+#EXTINF:-1 group-title="Región Selva",RTV Total Yurimaguas
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 group-title="Región Selva",Super Canal Yurimaguas
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 group-title="Región Selva",Telecolor
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 group-title="Región Selva",Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 group-title="Región Selva",Viva TV Yurimaguas
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 group-title="Región Sierra",Telesur Ilo
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 group-title="Regionales",[Moquegua] Telesur Moquegua
-https://1667517699.rsc.cdn77.org/hls/Moquegua.m3u8
-#EXTINF:-1 group-title="Regionales",[Piura] Canal 8 Catacaos
+#EXTINF:-1 group-title="Región Sierra",Telesur Moquegua
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 group-title="Región Costa",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Puno] Planeta TV
+#EXTINF:-1 group-title="Región Sierra",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Antares Televisión 
+#EXTINF:-1 group-title="Región Selva",Antares Televisión 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Auténtica Televisión 
+#EXTINF:-1 group-title="Región Selva",Auténtica Televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Contacto TV
-https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
-#EXTINF:-1 group-title="Regionales",[San Martin] CR Televisión 
+#EXTINF:-1 group-title="Región Selva",CR Televisión 
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Cumo TV
-https://live.obslivestream.com/cumo/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Genios TV
+#EXTINF:-1 group-title="Región Selva",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Master Televisión
-https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Millenium TV
+#EXTINF:-1 group-title="Región Selva",Master Televisión
+https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Región Selva",Millenium TV
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] NorSelva RTV
+#EXTINF:-1 group-title="Región Selva",NorSelva RTV
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Planeta TV
+#EXTINF:-1 group-title="Región Selva",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Radio Selva Televisión
+#EXTINF:-1 group-title="Región Selva",Radio Selva Televisión
 https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] SanjuaneraTV
+#EXTINF:-1 group-title="Región Selva",SanjuaneraTV
 https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Teleselva
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Tropical TV
+#EXTINF:-1 group-title="Región Selva",Tropical TV
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] TV Juanjui
+#EXTINF:-1 group-title="Región Selva",TV Juanjui
 https://tv1.mediacp.eu:3573/live/qpufhwtflive.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Vía Altomayo
+#EXTINF:-1 group-title="Región Selva",Vía Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Vía Televisión
+#EXTINF:-1 group-title="Región Selva",Vía Televisión
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Vinilos TV
+#EXTINF:-1 group-title="Región Selva",Vinilos TV
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Tumbes] Hechicera TV
+#EXTINF:-1 group-title="Región Costa",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[Tumbes] Tumbes TV
+#EXTINF:-1 group-title="Región Costa",Tumbes TV
 https://servilive.com:3531/stream/play.m3u8
-#EXTINF:-1 group-title="Regionales",[Ucayali] Oriental TV
+#EXTINF:-1 group-title="Región Selva",Oriental TV
 https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
-#EXTINF:-1 group-title="Regionales",[Ucayali] Pucallpa TV
-https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
-#EXTINF:-1 group-title="Regionales",[Ucayali] Ribereña TV
+#EXTINF:-1 group-title="Región Selva",Ribereña TV
 https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Ucayali] Top TV
+#EXTINF:-1 group-title="Región Selva",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 group-title="Regionales",[Ucayali] Ucayali TV
+#EXTINF:-1 group-title="Región Selva",Ucayali TV
 http://stream.fuegoplayer.com/ucayalitv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Ucayali] YA TV
+#EXTINF:-1 group-title="Región Selva",YA TV
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1 group-title="Streaming",Bella Asunción TV
 https://tvdatta.com:3602/stream/play.m3u8
