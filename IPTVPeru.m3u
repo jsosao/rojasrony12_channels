@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml"
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Locales",Willax TV
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="Locales",Latina
-https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="Locales",Top Latino TV
 http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="Locales",América Televisión
-https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="Locales",Panamericana TV
-https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="Locales",Exitosa TV
-https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="Locales",TV Perú
-https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="Locales",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="Locales",ATV
@@ -54,36 +54,38 @@ https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/K96tQYZ/bh-tv.png" group-title="Locales",BHTV
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.ibb.co/tsSkmMT/conecta2tv.png" group-title="Locales",Conecta2TV
-https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8
+https://live-evg24.tv360.bitel.com.pe/conecta2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.ibb.co/MnFWKCN/doblec-tv.png" group-title="Locales",Doble C Televisión
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Vpg64YZ/PBO.jpg" group-title="Locales",PBO
 http://bantel.iptvperu.tv:1935/cdntij/PBO.stream/chunks.m3u8
-#EXTINF:-1 group-title="Regionales",Intuitiva TV
+#EXTINF:-1 group-title="Locales",CTV
+https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/playlist.m3u8
+#EXTINF:-1 group-title="Locales",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 group-title="Regionales",NC Televisión
-https://vdo.grupolimalive.com:3245/stream/play.m3u8
-#EXTINF:-1 group-title="Regionales",Onda Digital
-https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Regionales",Onda Digital 2
-https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Regionales",Onda Digital 3 Radio
-https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Regionales",Ovacion TV
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",Región TV Callao
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 group-title="Regionales",San Borja TV
-https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
-#EXTINF:-1 group-title="Regionales",TVOne
-https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",TVPE Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-#EXTINF:-1 group-title="Regionales",TVPE Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
-#EXTINF:-1 group-title="Regionales",Ipe
+#EXTINF:-1 group-title="Locales",Ipe
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 group-title="Regionales",USIL TV
+#EXTINF:-1 group-title="Locales",NC Televisión
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
+#EXTINF:-1 group-title="Locales",Onda Digital
+https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Locales",Onda Digital 2
+https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Locales",Onda Digital 3 Radio
+https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Locales",Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Locales",Región TV Callao
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 group-title="Locales",San Borja TV
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
+#EXTINF:-1 group-title="Locales",TVOne
+https://streamtv.onliv3.Online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 group-title="Locales",TVPE Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 group-title="Locales",TVPE Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 group-title="Locales",USIL TV
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1 group-title="Regionales",[Amazonas] Nova TV Star
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
@@ -107,6 +109,8 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://video2.getstreamhosting.com:19360/8206/8206.m3u8
 #EXTINF:-1 group-title="Regionales",[Cajamarca] Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 group-title="Regionales",[Cusco] CTC
+https://live-evg25.tv360.bitel.com.pe/bitel/ctc/bitel/ctc_ori_360p/chunks.m3u8
 #EXTINF:-1 group-title="Regionales",[Cusco] DMJ 
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 group-title="Regionales",[Cusco] QT Televisión 
@@ -115,16 +119,16 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 group-title="Regionales",[Cusco] TVenLinea 
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 group-title="Regionales",[Junin] Unitel TV 
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 group-title="Regionales",[Junin] Miel TV 
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 group-title="Regionales",[Junin] Nativa TV Satipo 
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 group-title="Regionales",[La Libertad] TV Cosmos
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 group-title="Regionales",[Junin] Unitel TV 
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 group-title="Regionales",[La Libertad] Sol Televisión
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 group-title="Regionales",[La Libertad] TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 group-title="Regionales",[Loreto] CNC Digital Iquitos
 https://vdo.grupolimalive.com/p/3237/live/cnctvlive.m3u8
 #EXTINF:-1 group-title="Regionales",[Loreto] Doble AA
@@ -145,6 +149,8 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 group-title="Regionales",[Loreto] Viva TV Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 group-title="Regionales",[Lambayeque] TV Norte
+https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
 #EXTINF:-1 group-title="Regionales",[Moquegua] Telesur Ilo
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 group-title="Regionales",[Moquegua] Telesur Moquegua
@@ -153,18 +159,16 @@ https://1667517699.rsc.cdn77.org/hls/Moquegua.m3u8
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 group-title="Regionales",[Puno] Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Auténtica Televisión 
-https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] Antares Televisión 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] CR Televisión 
-https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 group-title="Regionales",[San Martin] Auténtica Televisión 
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] Contacto TV
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
+#EXTINF:-1 group-title="Regionales",[San Martin] CR Televisión 
+https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] Cumo TV
 https://live.obslivestream.com/cumo/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Vía Altomayo
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] Master Televisión
@@ -175,30 +179,32 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Teleselva
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Tropical TV
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] Radio Selva Televisión
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] SanjuaneraTV
 https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 group-title="Regionales",[San Martin] Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+#EXTINF:-1 group-title="Regionales",[San Martin] Tropical TV
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] TV Juanjui
 https://tv1.mediacp.eu:3573/live/qpufhwtflive.m3u8
-#EXTINF:-1 group-title="Regionales",[San Martin] Vinilos TV
-https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 group-title="Regionales",[San Martin] Vía Altomayo
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 group-title="Regionales",[San Martin] Vía Televisión
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 group-title="Regionales",[Tumbes] Tumbes TV
-https://servilive.com:3531/stream/play.m3u8
+#EXTINF:-1 group-title="Regionales",[San Martin] Vinilos TV
+https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 group-title="Regionales",[Tumbes] Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 group-title="Regionales",[Tumbes] Tumbes TV
+https://servilive.com:3531/stream/play.m3u8
+#EXTINF:-1 group-title="Regionales",[Ucayali] Oriental TV
+https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
 #EXTINF:-1 group-title="Regionales",[Ucayali] Pucallpa TV
 https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
 #EXTINF:-1 group-title="Regionales",[Ucayali] Ribereña TV
 https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 group-title="Regionales",[Ucayali] Oriental TV
-https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
 #EXTINF:-1 group-title="Regionales",[Ucayali] Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 group-title="Regionales",[Ucayali] Ucayali TV
