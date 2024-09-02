@@ -40,7 +40,7 @@ https://servilive.com:3028/live/jntv19live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/brrWmN8/tele-vid.png" group-title="Locales",Tele VID
 https://servilive.com:3224/live/jn19tv2live.m3u8
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Locales",ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/1dpQd42/telelima.png" group-title="Locales",Telelima
 http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="Locales",Onda Digital
