@@ -213,8 +213,8 @@ http://190.60.40.37:12500/play/a07g
 http://177.53.155.236:8000/play/a09p
 #EXTINF:-1 tvg-id="CNN ESPAÑOL.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="Noticias",CNN en Español
 http://177.53.155.236:8000/play/a0aj
-http://177.53.155.236:8000/play/a029
 #EXTINF:-1 tvg-id="CNN Premium.pe" tvg-logo="https://i.ibb.co/L0mzfZ3/cnninternational.jpg" group-title="Noticias",CNN International
+http://177.53.155.236:8000/play/a029
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.ibb.co/ydc3grs/dw.png" group-title="Noticias",DW
 http://181.78.12.119:16123/play/a09o
 #EXTINF:-1 tvg-id="FRANCE24.pe" tvg-logo="https://i.ibb.co/L5355p0/france24.jpg" group-title="Noticias",France 24
