@@ -1,38 +1,26 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 xui-id="6" tvg-id="A&E.(Andes).(A&E)..ec" tvg-name="CINE  | A&E HD" tvg-logo="https://i.postimg.cc/W4Q4ChkY/AEHD.png" group-title="CINE PREMIUM Exclusivo✯",CINE  | A&E HD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1uGTUjJL-BPzZNZEJgy-Wwk/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1uGTUjJL-BPzZNZEJgy-Wwk/ts
 #EXTINF:-1 xui-id="7" tvg-id="Cinemax.(Panamerican).(CINEMAXE)..ec" tvg-name="CINE  | A&E SD" tvg-logo="https://i.postimg.cc/mDJ7dLLT/AESD.png" group-title="CINE PREMIUM Exclusivo✯",CINE  | A&E SD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1tqL4-TO_hHOz9MrxVROf9f/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1tqL4-TO_hHOz9MrxVROf9f/ts
 #EXTINF:-1 xui-id="8" tvg-id="1509dtv.cl" tvg-name="CINE  | CINEMAX HD" tvg-logo="https://i.postimg.cc/N0b2515y/CMHD.png" group-title="CINE PREMIUM Exclusivo✯",CINE  | CINEMAX HD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1uIVM0vt_DGiWWGZ1cEYfC1/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1uIVM0vt_DGiWWGZ1cEYfC1/ts
 #EXTINF:-1 xui-id="9" tvg-id="1509dtv.cl" tvg-name="CINE  | CINEMAX  SD" tvg-logo="https://i.postimg.cc/1tQHG0Hy/CMSD.png" group-title="CINE PREMIUM Exclusivo✯",CINE  | CINEMAX  SD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1sDFlU5P1gnyzUmsUmlnUWi/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1sDFlU5P1gnyzUmsUmlnUWi/ts
 #EXTINF:-1 xui-id="66" tvg-id="espn3.co" tvg-name="*BL 1*" tvg-logo="https://i.postimg.cc/HsNkGYFq/BUNDESLIGA.png" group-title="⚽BUNDESLIGA⚽",*BL 1*
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vQ8Zcgm2OV8yqKDq_WgYUz/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vQ8Zcgm2OV8yqKDq_WgYUz/ts
 #EXTINF:-1 xui-id="68" tvg-id="espn3.co" tvg-name="*BL 2*" tvg-logo="https://i.postimg.cc/HsNkGYFq/BUNDESLIGA.png" group-title="⚽BUNDESLIGA⚽",*BL 2*
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1urePt4X9_uM2yLGsPsuquP/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1urePt4X9_uM2yLGsPsuquP/ts
 #EXTINF:-1 xui-id="69" tvg-id="espn3.co" tvg-name="EC | ⓇⓉⓈ HD" tvg-logo="https://i.postimg.cc/DyPg5Pp8/rts.png" group-title="ECUADOR PREMIUM⭐",EC | ⓇⓉⓈ HD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1tOOy6y2FF29GBtGdwjwJGn/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1tOOy6y2FF29GBtGdwjwJGn/ts
 #EXTINF:-1 xui-id="71" tvg-id="espn2.co" tvg-name="LAT | ESPⓝ 2  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="⚽SUDAMERICANA⚽",LAT | ESPⓝ 2  HD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1v2xnI63J_sl2LJeBGeYhKg/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1v2xnI63J_sl2LJeBGeYhKg/ts
 #EXTINF:-1 xui-id="78" tvg-id="argentinisima.ar" tvg-name="AR | F⚽X $P0RTS 1 HD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="ZONA | FOX SPORTS HD",AR | F⚽X $P0RTS 1 HD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1t7lJLV1LwYICWSJTPQ4cm_/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1t7lJLV1LwYICWSJTPQ4cm_/ts
 #EXTINF:-1 xui-id="79" tvg-id="foxsports2.ar" tvg-name="AR | F⚽X SP0RTS 1  SD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="ZONA | FOX SPORTS HD",AR | F⚽X SP0RTS 1  SD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vA1W69jOBRU1XXCWYL8V_W/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vA1W69jOBRU1XXCWYL8V_W/ts
 #EXTINF:-1 xui-id="80" tvg-id="foxsports2.ar" tvg-name="AR | F0X SP0RTS 2  HD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="ZONA | FOX SPORTS HD",AR | F0X SP0RTS 2  HD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vW2P-kmsm4pcPdmJwXHowU/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vW2P-kmsm4pcPdmJwXHowU/ts
 #EXTINF:-1 xui-id="81" tvg-id="foxsports2.ar" tvg-name="AR | F⚽X $P0RTS 2 SD" tvg-logo="https://i.postimg.cc/9fBgvMrV/FOX-SPORTS-2.png" group-title="ZONA | FOX SPORTS HD",AR | F⚽X $P0RTS 2 SD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1v-8imZLLTqnMJfEmuGI5I2/m3u8
-#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="EUR | TENNIS CHANEL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNeoiojxI2gbNwXGNUEDZaeXMD__r84vdzg&usqp=CAU" group-title="DEPORTE EUROPEO",EUR | TENNIS CHANEL SPORTS
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1v8tQgPHHFF2ojx4M6TTw-i/m3u8
-#EXTINF:-1 xui-id="209" tvg-id="canal13.cl" tvg-name="CL | CANAL 13  HD" tvg-logo="http://daleplay.club:80/images/9ceef67d0a04f0c3217acefded9678bf.png" group-title="CHILE⭐",CL | CANAL 13  HD
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vQK9n7wwbvr07D2ZLmbKh_/m3u8
-#EXTINF:-1 xui-id="411" tvg-id="I406.77606.schedulesdirect.org" tvg-name="⭐USA | TM | INTERNACIONAL FHD⭐" tvg-logo="" group-title="ZONA | TELEMUNDO",⭐USA | TM | INTERNACIONAL FHD⭐
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1sMVHvd2vtFtmRBZzNREMLw/m3u8
-#EXTINF:-1 xui-id="414" tvg-id="" tvg-name="⭐USA | TM | CHICAGO | FHD⭐" tvg-logo="" group-title="ZONA | TELEMUNDO",⭐USA | TM | CHICAGO | FHD⭐
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1swAmffnwY3n6DHKEVvsM4d/m3u8
-#EXTINF:-1 xui-id="419" tvg-id="" tvg-name="⭐TM MIAMI | FHD⭐" tvg-logo="" group-title="ZONA | TELEMUNDO",⭐TM MIAMI | FHD⭐
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1uh3b6XFxhq_I441tze66vs/m3u8
-#EXTINF:-1 xui-id="428" tvg-id="" tvg-name="CANAL 6 | SV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaDbiAbQH9HQhKhKYBUERiwu28l1Bh1G4r8g&usqp=CAU" group-title="El salvador",CANAL 6 | SV
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1u-kAGgvVAc8pNvei5xFCua/m3u8
+http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1v-8imZLLTqnMJfEmuGI5I2/ts
