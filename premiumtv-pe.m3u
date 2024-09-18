@@ -7,4 +7,5 @@ https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/pla
 http://38.41.8.1:8000/play/a005
 #EXTINF:-1,HBO
 http://38.41.8.1:8000/play/a01u
-#EXTM3U
+#EXTINF:-1,América Televisión
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
