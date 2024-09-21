@@ -1,241 +1,241 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml"
 #EXTINF:-1 tvg-id="WILLAX.pe" tvg-logo="https://i.ibb.co/BskSnpd/willaxtv.png" group-title="Locales",Willax TV
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/willax.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="LATINA.pe" tvg-logo="https://i.ibb.co/jJGywVM/latina.png" group-title="Locales",Latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/latina.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-logo="https://i.ibb.co/4gb1XhQ/toplatino.png" group-title="Locales",Top Latino TV
 http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="AMERICA TELEVISION.pe" tvg-logo="https://i.ibb.co/52PXbSh/americatv.png" group-title="Locales",América Televisión
-https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/americatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION.pe" tvg-logo="https://i.ibb.co/RDJJ6Xn/panamericana.png" group-title="Locales",Panamericana TV
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/panamericana.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-logo="https://i.ibb.co/RNfc01B/exitosa.png" group-title="Locales",Exitosa TV
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/exitosa.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://i.ibb.co/T8VDZmC/tvper.png" group-title="Locales",TV Perú
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/tvperu.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ATV+.pe" tvg-logo="https://i.ibb.co/SX0TxVr/atvmas.png" group-title="Locales",ATV+
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/atvnoticia.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/WG0PbYd/atv.png" group-title="Locales",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/atv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpzH4kv/la-tele.png" group-title="Locales",La Tele
 http://bantel.iptvperu.tv:1935/cdntij/latele.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JrbHc3L/viva-tv.png" group-title="Locales",Viva Tv
 http://bantel.iptvperu.tv:1935/cdntij/vivatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="USMP TV.pe" tvg-logo="https://i.ibb.co/j6XC12D/usmptv.png" group-title="Locales",USMPTV
-https://streamusmptv.ddns.net/live/stream.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/usmp.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://i.ibb.co/kBpn8HZ/globaltv.png" group-title="Locales",Global TV
-https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/playlist.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/global.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1nqMHyT/justicia-tv.png" group-title="Locales",Justicia TV
-http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/chunks.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/playlist.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.ibb.co/7y81hXD/karibe-atv.png" group-title="Locales",Karibeña
 http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tM0xqyx/usmptv-musica.png" group-title="Locales",USMP TV Music
 http://bantel.iptvperu.tv:1935/cdnrhj/usmptv_musica.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="LikeTV.pe" tvg-logo="https://i.ibb.co/hW2jMgb/like-tv.png" group-title="Locales",Like TV
-https://live-evg9.tv360.bitel.com.pe/fuegotvvivo12112021/tracks-v1a1/mono.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/fuegotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Nativa Tv.pe" tvg-logo="https://i.ibb.co/M5fLVxj/nativa.png" group-title="Locales",Nativa
-https://www.ntv.pe/salida/nativa.m3u8
+http://bantel.iptvperu.tv:1935/astralocal/NativaTV/chunks.m3u8
 #EXTINF:-1 tvg-id="JN19 TELEJUAN.pe" tvg-logo="https://i.ibb.co/ZV1dfr9/jn19.png" group-title="Locales",JN19
-https://servilive.com:3028/live/jntv19live.m3u8
+http://bantel.iptvperu.tv:1935/cdnnjf/jn19/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/brrWmN8/tele-vid.png" group-title="Locales",Tele VID
-https://servilive.com:3224/live/jn19tv2live.m3u8
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
 #EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://i.ibb.co/QJ63npJ/atv-sur.png" group-title="Locales",ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/atvsur.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Telelima.pe" tvg-logo="https://i.ibb.co/1dpQd42/telelima.png" group-title="Locales",Telelima
-http://38.44.237.132:2080/TeleLima/index.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/telelima.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dmYzX8T/onda-digital.png" group-title="Locales",Onda Digital
-https://tv.ondadigital.pe:1936/ondatv/ondatv/playlist.m3u8
+http://bantel.iptvperu.tv:1935/cdnqmu/ondadigital/chunks.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.ibb.co/LQkyVtg/matices.png" group-title="Locales",MaticesTV
-https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+http://bantel.iptvperu.tv:1935/cdnnjf/MaticesTV/chunks.m3u8
 #EXTINF:-1 tvg-id="BethelTV.pe" tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Locales",Bethel TV
-https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
+http://bantel.iptvperu.tv:1935/cdnmkd/bethel/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MCd482z/trivu.png" group-title="Locales",Trivu TV
-https://www.chasquirouter.com/salida/sd/trivu.m3u8
+http://bantel.iptvperu.tv:1935/miscelaneos/trivu.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.ibb.co/K96tQYZ/bh-tv.png" group-title="Locales",BHTV
-https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/BHTV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.ibb.co/tsSkmMT/conecta2tv.png" group-title="Locales",Conecta2TV
-https://live-evg24.tv360.bitel.com.pe/conecta2/tracks-v1a1/mono.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/conecta2tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.ibb.co/MnFWKCN/doblec-tv.png" group-title="Locales",Doble C Televisión
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Vpg64YZ/PBO.jpg" group-title="Locales",PBO
 http://bantel.iptvperu.tv:1935/cdntij/PBO.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Ciencia y Cultura",Animal Planet
-http://38.41.8.1:8000/play/a023
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Ciencia y Cultura",Discovery Channel
-http://38.41.8.1:8000/play/a02y
-#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY.pe" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Ciencia y Cultura",Discovery ID
-http://38.41.8.1:8000/play/a071
-#EXTINF:-1 tvg-id="DISCOVERY THEATER HD.pe" tvg-logo="https://i.ibb.co/L9V9hKD/discovery-theater.png" group-title="Ciencia y Cultura",Discovery Theater
-http://38.41.8.1:8000/play/a018
-#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Ciencia y Cultura",Discovery World
-http://38.41.8.1:8000/play/a01q
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Ciencia y Cultura",History
-http://38.41.8.1:8000/play/a005
+http://bantel.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 #EXTINF:-1 tvg-id="HISTORY 2.pe" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Ciencia y Cultura",History 2
-http://38.41.8.1:8000/play/a030
+http://bantel.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Ciencia y Cultura",Animal Planet
+http://bantel.iptvperu.tv:1935/xmp_trans/animalplanet.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Love Nature HD.pe" tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="Ciencia y Cultura",Love Nature
-http://38.41.8.1:8000/play/a02p
+http://bantel.iptvperu.tv:1935/cdnnjf/lovenature_principal/chunks.m3u8
 #EXTINF:-1 tvg-id="NAT GEO.pe" tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="Ciencia y Cultura",Nat Geo
-http://38.41.8.1:8000/play/a01p
+http://bantel.iptvperu.tv:1935/cdnnjf/NatGeo/chunks.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Ciencia y Cultura",Discovery Channel
+http://bantel.iptvperu.tv:1935/bantel/discoverychannel.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY.pe" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Ciencia y Cultura",Discovery ID
+http://bantel.iptvperu.tv:1935/cdnrji/id/chunks.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD.pe" tvg-logo="https://i.ibb.co/L9V9hKD/discovery-theater.png" group-title="Ciencia y Cultura",Discovery Theater
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/135678.ts
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Ciencia y Cultura",Discovery World
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/135666.ts
 #EXTINF:-1 tvg-id="AandE.pe" tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="Cine y Series",A&E
-http://38.41.8.1:8000/play/a006
+http://bantel.iptvperu.tv:1935/cdnnjf/aye/chunks.m3u8
 #EXTINF:-1 tvg-id="AMC HD.pe" tvg-logo="https://i.ibb.co/HCdPs9q/amc.png" group-title="Cine y Series",AMC
-http://38.41.8.1:8000/play/a01s
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/138047.ts
 #EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="Cine y Series",AXN
-http://38.41.8.1:8000/play/a009
+http://bantel.iptvperu.tv:1935/cdnmkd/axn/chunks.m3u8
 #EXTINF:-1 tvg-id="CINECANAL.pe" tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="Cine y Series",Cinecanal
-http://38.41.8.1:8000/play/a01r
+http://bantel.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
 #EXTINF:-1 tvg-id="CINEMAX.pe" tvg-logo="https://i.ibb.co/jkfZ903/cinemax.png" group-title="Cine y Series",Cinemax
-http://38.41.8.1:8000/play/a00y
+http://bantel.iptvperu.tv:1935/cdnrji/cinemax.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="CLOVER.pe" tvg-logo="https://i.ibb.co/VgHWd6n/clover-channel.png" group-title="Cine y Series",Clover
-http://38.41.8.1:8000/play/a00f
+https://github.com/rojasrony12/channels/raw/main/sin-se%C3%B1al.mkv
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe" tvg-logo="https://i.ibb.co/XVRWWGd/comedycentral.png" group-title="Cine y Series",Comedy Central
-http://38.41.8.1:8000/play/a00z
+http://bantel.iptvperu.tv:1935/xmp_trans/comedy.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://i.ibb.co/QDMD1N8/dhe.png" group-title="Cine y Series",DHE
-http://38.41.8.1:8000/play/a02x
+http://bantel.iptvperu.tv:1935/transcoder5_cdnmkd/dhe.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="EUROCHANNEL.pe" tvg-logo="https://i.ibb.co/vXr5JZH/euro-channel.png" group-title="Cine y Series",Eurochannel
-http://45.5.116.178:8000/play/a032
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/146594.ts
 #EXTINF:-1 tvg-id="Europa Europa HD.pe" tvg-logo="https://i.ibb.co/vhcxzxF/europaeuropa.png" group-title="Cine y Series",Europa Europa
-http://45.5.117.182:8000/play/a0fq
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/58.ts
 #EXTINF:-1 tvg-id="Film and Arts HD.pe" tvg-logo="https://i.ibb.co/F3Twpcc/film-arts.png" group-title="Cine y Series",Film&Art
-http://45.5.117.182:8000/play/a0fl
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/4287.ts
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Cine y Series",FX
-http://38.41.8.1:8000/play/a01h
+http://bantel.iptvperu.tv:1935/cdnnjf/FX/chunks.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT.pe" tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="Cine y Series",Paramount
-http://38.41.8.1:8000/play/a01x
+http://bantel.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8
 #EXTINF:-1 tvg-id="SONY.pe" tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Cine y Series",Sony Channel
-http://38.41.8.1:8000/play/a007
+http://bantel.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://i.ibb.co/FJ8cdKb/sony-movies.png" group-title="Cine y Series",Sony Movies
-http://177.53.155.236:8000/play/a08n
+http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
 #EXTINF:-1 tvg-id="SPACE.pe" tvg-logo="https://i.ibb.co/HrKT39m/space.png" group-title="Cine y Series",Space
-http://38.41.8.1:8000/play/a00a
+http://bantel.iptvperu.tv:1935/xmp_trans/space.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="Cine y Series",Star Channel
-http://38.41.8.1:8000/play/a019
+http://bantel.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Star TVE HD.pe" tvg-logo="https://i.ibb.co/ZSVYz10/startve.jpg" group-title="Cine y Series",Star Tve
-http://38.41.8.1:8000/play/a01z
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3032.ts
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL.pe" tvg-logo="https://i.ibb.co/M1kxMnB/studio-universal.png" group-title="Cine y Series",Studio Universal
-http://38.41.8.1:8000/play/a01y
+http://bantel.iptvperu.tv:1935/cdnnjf/studiouniversal/chunks.m3u8
 #EXTINF:-1 tvg-id="TCM.pe" tvg-logo="https://i.ibb.co/8072twn/tcm.png" group-title="Cine y Series",TCM
-http://38.41.8.1:8000/play/a04x
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/4804.ts
 #EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://i.ibb.co/SJtrSGv/tnt.png" group-title="Cine y Series",TNT 
-http://38.41.8.1:8000/play/a00s
+http://bantel.iptvperu.tv:1935/cdnrji/tnt/chunks.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES.pe" tvg-logo="https://i.ibb.co/gWTm7g0/tnt-series.png" group-title="Cine y Series",TNT Series
-http://38.41.8.1:8000/play/a01g
+http://bantel.iptvperu.tv:1935/xmp_trans/TntSeries.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Cine y Series",Universal
-http://38.41.8.1:8000/play/a01a
+http://bantel.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
 #EXTINF:-1 tvg-id="USANetworkPanregional.us" tvg-logo="https://i.ibb.co/7CQ6jML/usa.jpg" group-title="Cine y Series",USA
-http://38.41.8.1:8000/play/a057
+http://bantel.iptvperu.tv:1935/cdnnjf/SYFY.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",Warner
-http://38.41.8.1:8000/play/a008
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/7981.ts
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
-http://38.41.8.1:8000/play/a00k
+http://bantel.iptvperu.tv:1935/cdnwen/ESPN.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Deportes",ESPN 2
-http://38.41.8.1:8000/play/a00c
+http://bantel.iptvperu.tv:1935/cdnwen/ESPN2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.pe" tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="Deportes",ESPN 3
-http://38.41.8.1:8000/play/a00t
+http://bantel.iptvperu.tv:1935/cdnwen/espn3/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN 4 HD.pe" tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="Deportes",ESPN 4
-http://38.41.8.1:8000/play/a01t
+http://bantel.iptvperu.tv:1935/cdnwen/Espn4.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN 5 HD.pe" tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="Deportes",ESPN 5
-http://38.41.8.1:8000/play/a0br
+http://bantel.iptvperu.tv:1935/cdnwen/espn5/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://i.ibb.co/gMc9wbN/espn6.png" group-title="Deportes",ESPN 6
-http://38.41.8.1:8000/play/a0bp
+http://bantel.iptvperu.tv:1935/cdnwen/espn6/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 7 HD.pe" tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="Deportes",ESPN 7
-http://38.41.8.1:8000/play/a0bs
+http://bantel.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN ᴾʳᵉᵐⁱᵘᵐ
-http://38.41.8.1:8000/play/a0ca
+http://bantel.iptvperu.tv:1935/cdnrji/espnpremium/chunks.m3u8
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="Deportes",Movistar Deportes
-http://38.41.8.1:8000/play/a026
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/145451.ts
 #EXTINF:-1 tvg-id="GOLPERU HD.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="Deportes",Gol Perú
-http://38.41.8.1:8000/play/a02j
+http://bantel.iptvperu.tv:1935/cdnrji/bein_sports_Xtra/chunks.m3u8
 #EXTINF:-1 tvg-id="GOL TV HD.pe" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="Deportes",GolTV
-http://38.41.8.1:8000/play/a02d
+http://bantel.iptvperu.tv:1935/cdnwen/goltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GCN4HVW/golfchannel.png" group-title="Deportes",Golf Channel
-http://45.5.117.182:8000/play/a0fv
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/156074.ts
 #EXTINF:-1 tvg-id="HOME and HEALTH.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="Entretenimiento",Discovery H&H
-http://38.41.8.1:8000/play/a017
+http://bantel.iptvperu.tv:1935/cdnrji/discoveryhh/chunks.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY TURBO.pe" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Entretenimiento",Discovery Turbo
-http://38.41.8.1:8000/play/a068
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3702.ts
 #EXTINF:-1 tvg-id="E.pe" tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="Entretenimiento",E!
-http://38.41.8.1:8000/play/a02c
+http://bantel.iptvperu.tv:1935/cdnfhv/entertainment.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="EL GOURMET HD.pe" tvg-logo="https://i.ibb.co/NTdcVGJ/el-gourmet.png" group-title="Entretenimiento",El Gourmet
-http://38.41.8.1:8000/play/a012
+http://bantel.iptvperu.tv:1935/cdnnjfz/elgourmet.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="FOOD NETWORK.pe" tvg-logo="https://i.ibb.co/YXcyJst/food.png" group-title="Entretenimiento",Food Network
-http://38.41.8.1:8000/play/a02f
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/132600.ts
 #EXTINF:-1 tvg-id="HGTV.pe" tvg-logo="https://i.ibb.co/y4LFdhk/HGTV.jpg" group-title="Entretenimiento",HGTV
-http://38.41.8.1:8000/play/a08e
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/149648.ts
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://i.ibb.co/kHTtTJr/holatv.png" group-title="Entretenimiento",Hola TV
-http://38.41.8.1:8000/play/a00r
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/140819.ts
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Entretenimiento",Lifetime
-http://38.41.8.1:8000/play/a056
+http://bantel.iptvperu.tv:1935/cdnnjf/lifetime/chunks.m3u8
 #EXTINF:-1 tvg-id="Mas Chic HD.pe" tvg-logo="https://i.ibb.co/B4X0yv3/mas-chic.png" group-title="Entretenimiento",Mas Chic
-http://181.78.12.119:16123/play/ch33
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/155965.ts
 #EXTINF:-1 tvg-id="M PLUS.pe" tvg-logo="https://i.ibb.co/HT1GLJ5/movistar-plus.png" group-title="Entretenimiento",Movistar Plus
-http://177.53.155.236:8000/play/a09o
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3327.ts
 #EXTINF:-1 tvg-id="TLC.pe" tvg-logo="https://i.ibb.co/sVS1cF1/tlc.png" group-title="Entretenimiento",TLC
-http://181.78.12.119:16123/play/ch26
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/156066.ts
 #EXTINF:-1 tvg-id="ADULT SWIM.pe" tvg-logo="https://i.ibb.co/bXzTMzH/adult-swim.png" group-title="Infantiles",Adult Swim
-http://38.41.8.1:8000/play/a011
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/155963.ts
 #EXTINF:-1 tvg-id="BABY TV.pe" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="Infantiles",Baby TV
-http://181.78.12.119:16123/play/ch01
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/149689.ts
 #EXTINF:-1 tvg-id="Cartoon Network HD.pe" tvg-logo="https://i.ibb.co/rfswZ3H/cartoonnetwork.png" group-title="Infantiles",Cartoon Netwoort
-http://38.41.8.1:8000/play/a01w
+http://bantel.iptvperu.tv:1935/cdnrji/cartoonnetwork/chunks.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO HD.pe" tvg-logo="https://i.ibb.co/fxCzVc9/cartoonito.png" group-title="Infantiles",Cartoonito
-http://45.5.117.182:8000/play/ari9
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/149686.ts
 #EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe" tvg-logo="https://i.ibb.co/gz4t1VH/discovery-kids.png" group-title="Infantiles",Discovery Kids
-http://38.41.8.1:8000/play/a0bl
+http://bantel.iptvperu.tv:1935/cdnrji/discoverykids/chunks.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="https://i.ibb.co/RDQ9yQr/disneychannel.png" group-title="Infantiles",Disney Channel
-http://38.41.8.1:8000/play/a00q
+http://bantel.iptvperu.tv:1935/cdnijc/disneychannel/chunks.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR.pe" tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="Infantiles",Disney Junior
-http://38.41.8.1:8000/play/a05l
+http://bantel.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Gobc31d.png" group-title="Infantiles",LơƖƖყ ƙıɖʂ
-http://181.78.12.119:16123/play/a09y
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/4857.ts
 #EXTINF:-1 tvg-id="NICK JR OTT.pe" tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="Infantiles",Nick Jr.
-http://38.41.8.1:8000/play/a067
+http://bantel.iptvperu.tv:1935/cdnijc/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="NICK HD.pe" tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="Infantiles",Nickelodeon
-http://38.41.8.1:8000/play/a00i
+http://bantel.iptvperu.tv:1935/cdnfit/nick/chunks.m3u8
 #EXTINF:-1 tvg-id="TeenNick.pe" tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="Infantiles",TeenNick
-http://45.5.117.182:8000/play/a0fg
+http://bantel.iptvperu.tv:1935/cdnijc/nickteen/chunks.m3u8
 #EXTINF:-1 tvg-id="TOONCAST.pe" tvg-logo="https://i.ibb.co/jy4xxv3/tooncast.png" group-title="Infantiles",Tooncast
-http://181.78.12.119:16123/play/ch203
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/5064.ts
 #EXTINF:-1 tvg-id="ANTENA3.pe" tvg-logo="https://i.ibb.co/JBHXYQH/antena3.png" group-title="Internacional",Antena 3 Internacional
-http://181.78.12.119:16123/play/a0a5
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/140350.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gzxyL9w/citytv.jpg" group-title="Internacional",City tv
-http://38.41.8.1:8000/play/a06x
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/160898.ts
 #EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-logo="https://i.ibb.co/TbD9hXg/telemundo.png" group-title="Internacional",Telemundo Internacional
-http://38.41.8.1:8000/play/a083
+http://bantel.iptvperu.tv:1935/cdnfhv/telemundo.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://i.ibb.co/8jT22CV/htv.png" group-title="Música",HTV
-http://38.41.8.1:8000/play/a08i
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/2078.ts
 #EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Música",MTV
-http://38.41.8.1:8000/play/a02u
+http://bantel.iptvperu.tv:1935/cdnnjf/MTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYPM6fN/cablenoticias.jpg" group-title="Noticias",Cable Noticias
-http://190.60.40.37:12500/play/a07g
+http://bantel.iptvperu.tv:1935/cdnnjf/cablenoticias/chunks.m3u8
 #EXTINF:-1 tvg-id="CNN ESPAÑOL.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="Noticias",CNN en Español
-http://38.41.8.1:8000/play/a059
+http://bantel.iptvperu.tv:1935/cdnrji/cnnespanol/chunks.m3u8
 #EXTINF:-1 tvg-id="CNN Premium.pe" tvg-logo="https://i.ibb.co/L0mzfZ3/cnninternational.jpg" group-title="Noticias",CNN International
-http://177.53.155.236:8000/play/a029
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/135657.ts
 #EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Noticias",Canal N
-http://177.53.155.236:8000/play/a09p
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3331.ts
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.ibb.co/ydc3grs/dw.png" group-title="Noticias",DW
-http://181.78.12.119:16123/play/a09o
+http://bantel.iptvperu.tv:1935/xmp_trans/DW.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="FRANCE24.pe" tvg-logo="https://i.ibb.co/L5355p0/france24.jpg" group-title="Noticias",France 24
-http://177.53.155.236:8000/play/a03q
+http://bantel.iptvperu.tv:1935/cdnnjf/France24-ES/chunks.m3u8
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="Noticias",RPP
-http://177.53.155.236:8000/play/a09l
+http://bantel.iptvperu.tv:1935/cdntij/RPP/chunks.m3u8
 #EXTINF:-1 tvg-id="CaracolPremium.co" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="Novelas",Caracol
-http://38.41.8.1:8000/play/a02v
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3573.ts
 #EXTINF:-1 tvg-id="AZ CORAZON.pe" tvg-logo="https://i.ibb.co/JCB5M6s/az-corazon.png" group-title="Novelas",Corazón
-http://45.5.117.182:8000/play/a0eu
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/129030.ts
 #EXTINF:-1 tvg-id="K-DRAMA.pe" tvg-logo="https://i.ibb.co/ZWxdKG5/kanal-DDrama.jpg" group-title="Novelas",Kanal D Drama
-http://38.41.8.1:8000/play/a0bz
+http://bantel.iptvperu.tv:1935/cdnnjf/KanalD/chunks.m3u8
 #EXTINF:-1 tvg-id="las estrellas.pe" tvg-logo="https://i.ibb.co/YNWWxKZ/las-estrellas.png" group-title="Novelas",Las Estrellas
-http://38.41.8.1:8000/play/a02w
+http://bantel.iptvperu.tv:1935/cdnnjf/Canal_LasEstrellas/chunks.m3u8
 #EXTINF:-1 tvg-id="Pasiones HD.pe" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="Novelas",Pasiones
-http://38.41.8.1:8000/play/a00p
+http://bantel.iptvperu.tv:1935/cdnnjf/pasiones.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.ibb.co/Jq8xwNL/RCN-Novelas.png" group-title="Novelas",RCN Novelas
-http://38.41.8.1:8000/play/a070
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3577.ts
 #EXTINF:-1 tvg-id="Tl Novelas.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Novelas",Tlnovelas
-http://45.5.117.182:8000/play/Kjnl
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3798.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LzJpDv1/tntnovelas.jpg" group-title="Novelas",TNT Novelas
-http://38.41.8.1:8000/play/a0d1
+http://bantel.iptvperu.tv:1935/cdnrji/tntnovelas/chunks.m3u8
 #EXTINF:-1 tvg-id="VE PLUS TV.pe" tvg-logo="https://i.ibb.co/YZ8g6H8/veplus.jpg" group-title="Novelas",Ve Plus
-http://181.78.12.119:16123/play/ch36
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/151655.ts
