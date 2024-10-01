@@ -1,1 +1,215 @@
-
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml"
+#EXTINF:-1,Willax TV
+http://bantel.iptvperu.tv:1935/cdntij/willax.stream/chunks.m3u8
+#EXTINF:-1,Latina
+http://bantel.iptvperu.tv:1935/cdntij/latina.stream/chunks.m3u8
+#EXTINF:-1,Top Latino TV
+http://bantel.iptvperu.tv:1935/transcoderip/toplatino_t1/chunks.m3u8
+#EXTINF:-1,América Televisión
+http://bantel.iptvperu.tv:1935/cdntij/americatv.stream/chunks.m3u8
+#EXTINF:-1,Panamericana TV
+http://bantel.iptvperu.tv:1935/cdntij/panamericana.stream/chunks.m3u8
+#EXTINF:-1,Exitosa TV
+http://bantel.iptvperu.tv:1935/cdntij/exitosa.stream/chunks.m3u8
+#EXTINF:-1,TV Perú
+http://bantel.iptvperu.tv:1935/cdntij/tvperu.stream/chunks.m3u8
+#EXTINF:-1,TV Perú Noticias
+http://bantel.iptvperu.tv:1935/cdncvf/tvperunoticias.stream/playlist.m3u8
+#EXTINF:-1,ATV
+http://bantel.iptvperu.tv:1935/cdntij/atv.stream/chunks.m3u8
+#EXTINF:-1,ATV+
+http://bantel.iptvperu.tv:1935/cdntij/atvnoticia.stream/chunks.m3u8
+#EXTINF:-1,IPE
+http://bantel.iptvperu.tv:1935/cdntij/ipe.stream/playlist.m3u8
+#EXTINF:-1,USMPTV
+http://bantel.iptvperu.tv:1935/cdntij/usmp.stream/chunks.m3u8
+#EXTINF:-1,Global TV
+http://bantel.iptvperu.tv:1935/cdntij/global.stream/chunks.m3u8
+#EXTINF:-1,Justicia TV
+http://bantel.iptvperu.tv:1935/transcoder_t1/justiciatv_t1/playlist.m3u8
+#EXTINF:-1,Karibeña
+http://bantel.iptvperu.tv:1935/transcoder_t1/karibena_t1/chunks.m3u8
+#EXTINF:-1,Nativa
+http://bantel.iptvperu.tv:1935/astralocal/NativaTV/chunks.m3u8
+#EXTINF:-1,JN19
+http://bantel.iptvperu.tv:1935/cdnnjf/jn19/chunks.m3u8
+#EXTINF:-1,Trivu TV
+http://bantel.iptvperu.tv:1935/miscelaneos/trivu.stream/chunks.m3u8
+#EXTINF:-1,ATV Sur
+http://bantel.iptvperu.tv:1935/cdntij/atvsur.stream/chunks.m3u8
+#EXTINF:-1,Telelima
+http://bantel.iptvperu.tv:1935/cdntij/telelima.stream/chunks.m3u8
+#EXTINF:-1,Onda Digital
+http://bantel.iptvperu.tv:1935/cdnqmu/ondadigital/chunks.m3u8
+#EXTINF:-1,MaticesTV
+http://bantel.iptvperu.tv:1935/cdnnjf/MaticesTV/chunks.m3u8
+#EXTINF:-1,Bethel TV
+http://bantel.iptvperu.tv:1935/cdnmkd/bethel/chunks.m3u8
+#EXTINF:-1,Like TV
+http://bantel.iptvperu.tv:1935/cdntij/fuegotv.stream/chunks.m3u8
+#EXTINF:-1,BHTV
+http://bantel.iptvperu.tv:1935/cdntij/BHTV.stream/chunks.m3u8
+#EXTINF:-1,Conecta2TV
+http://bantel.iptvperu.tv:1935/cdntij/conecta2tv.stream/playlist.m3u8
+#EXTINF:-1,Ovación
+http://bantel.iptvperu.tv:1935/cdn3/Ovacion/playlist.m3u8
+#EXTINF:-1,PBO
+http://bantel.iptvperu.tv:1935/cdntij/PBO.stream/chunks.m3u8
+#EXTINF:-1,History
+http://bantel.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
+#EXTINF:-1,History 2
+http://bantel.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
+#EXTINF:-1,Animal Planet
+http://bantel.iptvperu.tv:1935/xmp_trans/animalplanet.stream/chunks.m3u8
+#EXTINF:-1,Love Nature
+http://bantel.iptvperu.tv:1935/cdnnjf/lovenature_principal/chunks.m3u8
+#EXTINF:-1,Nat Geo
+http://bantel.iptvperu.tv:1935/cdnnjf/NatGeo/chunks.m3u8
+#EXTINF:-1,Discovery Channel
+http://bantel.iptvperu.tv:1935/bantel/discoverychannel.stream/chunks.m3u8
+#EXTINF:-1,Discovery ID
+http://bantel.iptvperu.tv:1935/cdnrji/id/chunks.m3u8
+#EXTINF:-1,A&E
+http://bantel.iptvperu.tv:1935/cdnnjf/aye/chunks.m3u8
+#EXTINF:-1,AXN
+http://bantel.iptvperu.tv:1935/cdnmkd/axn/chunks.m3u8
+#EXTINF:-1,Cinecanal
+http://bantel.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
+#EXTINF:-1,Cinemax
+http://bantel.iptvperu.tv:1935/cdnrji/cinemax.stream/chunks.m3u8
+#EXTINF:-1,Comedy Central
+http://bantel.iptvperu.tv:1935/xmp_trans/comedy.stream/chunks.m3u8
+#EXTINF:-1,DHE
+http://bantel.iptvperu.tv:1935/transcoder5_cdnmkd/dhe.stream/chunks.m3u8
+#EXTINF:-1,FX
+http://bantel.iptvperu.tv:1935/cdnnjf/FX/chunks.m3u8
+#EXTINF:-1,Paramount
+http://bantel.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8
+#EXTINF:-1,Sony Channel
+http://bantel.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
+#EXTINF:-1,Sony Movies
+http://bantel.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
+#EXTINF:-1,Space
+http://bantel.iptvperu.tv:1935/xmp_trans/space.stream/chunks.m3u8
+#EXTINF:-1,Star Channel
+http://bantel.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
+#EXTINF:-1,Studio Universal
+http://bantel.iptvperu.tv:1935/cdnnjf/studiouniversal/chunks.m3u8
+#EXTINF:-1,TNT 
+http://bantel.iptvperu.tv:1935/cdnrji/tnt/chunks.m3u8
+#EXTINF:-1,TNT Series
+http://bantel.iptvperu.tv:1935/xmp_trans/TntSeries.stream/chunks.m3u8
+#EXTINF:-1,Universal
+http://bantel.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
+#EXTINF:-1,USA
+http://bantel.iptvperu.tv:1935/cdnnjf/SYFY.stream/chunks.m3u8
+#EXTINF:-1,ESPN
+http://bantel.iptvperu.tv:1935/cdnwen/ESPN.stream/chunks.m3u8
+#EXTINF:-1,ESPN 2
+http://bantel.iptvperu.tv:1935/cdnwen/ESPN2.stream/chunks.m3u8
+#EXTINF:-1,ESPN 3
+http://bantel.iptvperu.tv:1935/cdnwen/espn3/chunks.m3u8
+#EXTINF:-1,ESPN 4
+http://bantel.iptvperu.tv:1935/cdnwen/Espn4.stream/chunks.m3u8
+#EXTINF:-1,ESPN 5
+http://bantel.iptvperu.tv:1935/cdnwen/espn5/chunks.m3u8
+#EXTINF:-1,ESPN 6
+http://bantel.iptvperu.tv:1935/cdnwen/espn6/playlist.m3u8
+#EXTINF:-1,ESPN 7
+http://bantel.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
+#EXTINF:-1,ESPN Premium
+http://bantel.iptvperu.tv:1935/cdnrji/espnpremium/chunks.m3u8
+#EXTINF:-1,Gol Perú
+http://bantel.iptvperu.tv:1935/cdnrji/bein_sports_Xtra/chunks.m3u8
+#EXTINF:-1,GolTV
+http://bantel.iptvperu.tv:1935/cdnwen/goltv.stream/chunks.m3u8
+#EXTINF:-1,Discovery H&H
+http://bantel.iptvperu.tv:1935/cdnrji/discoveryhh/chunks.m3u8
+#EXTINF:-1,E!
+http://bantel.iptvperu.tv:1935/cdnfhv/entertainment.stream/chunks.m3u8
+#EXTINF:-1,El Gourmet
+http://bantel.iptvperu.tv:1935/cdnnjfz/elgourmet.stream/chunks.m3u8
+#EXTINF:-1,Lifetime
+http://bantel.iptvperu.tv:1935/cdnnjf/lifetime/chunks.m3u8
+#EXTINF:-1,Cartoon Netwoort
+http://bantel.iptvperu.tv:1935/cdnrji/cartoonnetwork/chunks.m3u8
+#EXTINF:-1,Discovery Kids
+http://bantel.iptvperu.tv:1935/cdnrji/discoverykids/chunks.m3u8
+#EXTINF:-1,Disney Channel
+http://bantel.iptvperu.tv:1935/cdnijc/disneychannel/chunks.m3u8
+#EXTINF:-1,Disney Junior
+http://bantel.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
+#EXTINF:-1,Nick Jr.
+http://bantel.iptvperu.tv:1935/cdnijc/nick_jr/chunks.m3u8
+#EXTINF:-1,Nickelodeon
+http://bantel.iptvperu.tv:1935/cdnfit/nick/chunks.m3u8
+#EXTINF:-1,TeenNick
+http://bantel.iptvperu.tv:1935/cdnijc/nickteen/chunks.m3u8
+#EXTINF:-1,Telemundo Internacional
+http://bantel.iptvperu.tv:1935/cdnfhv/telemundo.stream/chunks.m3u8
+#EXTINF:-1,MTV
+http://bantel.iptvperu.tv:1935/cdnnjf/MTV/playlist.m3u8
+#EXTINF:-1,Cable Noticias
+http://bantel.iptvperu.tv:1935/cdnnjf/cablenoticias/chunks.m3u8
+#EXTINF:-1,CNN en Español
+http://bantel.iptvperu.tv:1935/cdnrji/cnnespanol/chunks.m3u8
+#EXTINF:-1,DW
+http://bantel.iptvperu.tv:1935/xmp_trans/DW.stream/chunks.m3u8
+#EXTINF:-1,France 24
+http://bantel.iptvperu.tv:1935/cdnnjf/France24-ES/chunks.m3u8
+#EXTINF:-1,RPP
+http://bantel.iptvperu.tv:1935/cdntij/RPP/chunks.m3u8
+#EXTINF:-1,Kanal D Drama
+http://bantel.iptvperu.tv:1935/cdnnjf/KanalD/chunks.m3u8
+#EXTINF:-1,Las Estrellas
+http://bantel.iptvperu.tv:1935/cdnnjf/Canal_LasEstrellas/chunks.m3u8
+#EXTINF:-1,Pasiones
+http://bantel.iptvperu.tv:1935/cdnnjf/pasiones.stream/chunks.m3u8
+#EXTINF:-1,TNT Novelas
+http://bantel.iptvperu.tv:1935/cdnrji/tntnovelas/chunks.m3u8
+#EXTINF:-1,Cine Familiar
+http://bantel.iptvperu.tv:1935/cdnnjf/cinefamiliar/chunks.m3u8
+#EXTINF:-1,Cine Hispano
+http://bantel.iptvperu.tv:1935/cdnnjf/cinehispano/chunks.m3u8
+#EXTINF:-1,Cine Premium
+http://bantel.iptvperu.tv:1935/cdnnjf/cinepremium/chunks.m3u8
+#EXTINF:-1,Golden
+http://bantel.iptvperu.tv:1935/cdnnjf/Golden/chunks.m3u8
+#EXTINF:-1,HBO
+http://bantel.iptvperu.tv:1935/cdnrji/HBO/chunks.m3u8
+#EXTINF:-1,HBO 2
+http://bantel.iptvperu.tv:1935/cdnrji/HBO2/chunks.m3u8
+#EXTINF:-1,HBO Family
+http://bantel.iptvperu.tv:1935/cdnrji/HBO_Family/chunks.m3u8
+#EXTINF:-1,HBO Plus
+http://bantel.iptvperu.tv:1935/cdnrji/hboplus/chunks.m3u8
+#EXTINF:-1,HBO Signature
+http://bantel.iptvperu.tv:1935/cdnrji/hbosignature/chunks.m3u8
+#EXTINF:-1,HBO Xtreme
+http://bantel.iptvperu.tv:1935/cdnrji/HBO_Xtreme/chunks.m3u8
+#EXTINF:-1,Universal Cinema
+http://bantel.iptvperu.tv:1935/cdnrji/universalcinema/chunks.m3u8
+#EXTINF:-1,Universal Comedy
+http://bantel.iptvperu.tv:1935/cdnrji/universalcomedy/chunks.m3u8
+#EXTINF:-1,Universal Crime
+http://bantel.iptvperu.tv:1935/cdnrji/universalcrime/chunks.m3u8
+#EXTINF:-1,Universal Premiere
+http://bantel.iptvperu.tv:1935/cdnrji/universalpremiere/playlist.m3u8
+#EXTINF:-1,Universal Reality
+http://bantel.iptvperu.tv:1935/cdnrji/universalreality/chunks.m3u8
+#EXTINF:-1,TNT Sports Premium
+http://bantel.iptvperu.tv:1935/cdnrji/tntsports2/chunks.m3u8
+#EXTINF:-1,TyC Sports Internacional
+http://bantel.iptvperu.tv:1935/cdnrji/BTYC_Sports/chunks.m3u8
+#EXTINF:-1,RT Noticias [RU]
+http://bantel.iptvperu.tv:1935/xmp_trans/RTESPANOL.stream/chunks.m3u8
+#EXTINF:-1,Mi Música Popular
+http://bantel.iptvperu.tv:1935/cdnrhj/mimusicareggaeton/chunks.m3u8
+#EXTINF:-1,Mi Música Reggaeton
+http://bantel.iptvperu.tv:1935/cdnrhj/mimusicaperu/chunks.m3u8
+#EXTINF:-1,Mi Música Romántica
+http://bantel.iptvperu.tv:1935/cdnrhj/mimusicaromantica/chunks.m3u8
+#EXTINF:-1,Mi Música Salsa
+http://bantel.iptvperu.tv:1935/cdnrhj/mimusicasalsa/chunks.m3u8
+#EXTINF:-1,VM Latino
+http://bantel.iptvperu.tv:1935/xmp_trans/TELENOSTALGIA.stream/chunks.m3u8
