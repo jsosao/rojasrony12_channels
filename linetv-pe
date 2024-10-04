@@ -60,182 +60,122 @@ https://live-evg18.tv360.bitel.com.pe/iptvovacion1/liveovacion1tv/chunklist_w197
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Vpg64YZ/PBO.jpg" group-title="Locales",PBO
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL.pe" tvg-logo="https://i.ibb.co/Sw846zF/history.png" group-title="Ciencia y Cultura",History
-http://38.41.8.1:8000/play/a005
+http://190.61.55.186:1010/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="HISTORY 2.pe" tvg-logo="https://i.ibb.co/HqfmqPb/history2.png" group-title="Ciencia y Cultura",History 2
-http://38.41.8.1:8000/play/a030
+http://190.61.55.186:1010/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET.pe" tvg-logo="https://i.ibb.co/g4hSrxn/animal-planet.png" group-title="Ciencia y Cultura",Animal Planet
-http://38.41.8.1:8000/play/a023
+http://190.61.55.186:1010/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature HD.pe" tvg-logo="https://i.ibb.co/HG8x8Ky/love-nature.png" group-title="Ciencia y Cultura",Love Nature
-http://38.41.8.1:8000/play/a02p
+http://bantel.iptvperu.tv:1935/cdnnjf/lovenature_principal/chunks.m3u8
 #EXTINF:-1 tvg-id="NAT GEO.pe" tvg-logo="https://i.ibb.co/fNF1ysy/natgeo.png" group-title="Ciencia y Cultura",Nat Geo
-http://38.41.8.1:8000/play/a01p
+http://190.61.55.186:1010/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe" tvg-logo="https://i.ibb.co/y5sKXRp/discovery.png" group-title="Ciencia y Cultura",Discovery Channel
-http://38.41.8.1:8000/play/a02y
+http://190.61.55.186:1010/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY.pe" tvg-logo="https://i.ibb.co/1KHgDSP/discovery-idinvestigation.png" group-title="Ciencia y Cultura",Discovery ID
-http://38.41.8.1:8000/play/a071
-#EXTINF:-1 tvg-id="DISCOVERY THEATER HD.pe" tvg-logo="https://i.ibb.co/L9V9hKD/discovery-theater.png" group-title="Ciencia y Cultura",Discovery Theater
-http://38.41.8.1:8000/play/a018
-#EXTINF:-1 tvg-id="DISCOVERY WORLD HD.pe" tvg-logo="https://i.ibb.co/3m40LTR/discovery-world.png" group-title="Ciencia y Cultura",Discovery World
-http://38.41.8.1:8000/play/a01q
+http://190.61.55.186:1010/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="AandE.pe" tvg-logo="https://i.ibb.co/GcRZggj/a-e.png" group-title="Cine y Series",A&E
-http://38.41.8.1:8000/play/a006
-#EXTINF:-1 tvg-id="AMC HD.pe" tvg-logo="https://i.ibb.co/HCdPs9q/amc.png" group-title="Cine y Series",AMC
-http://38.41.8.1:8000/play/a01s
+http://190.61.55.186:1010/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://i.ibb.co/Gkz9K72/axn.png" group-title="Cine y Series",AXN
-http://38.41.8.1:8000/play/a009
+http://190.61.55.186:1010/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="CINECANAL.pe" tvg-logo="https://i.ibb.co/HB1rDvr/cinecanal.png" group-title="Cine y Series",Cinecanal
-http://38.41.8.1:8000/play/a01r
+http://190.61.55.186:1010/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX.pe" tvg-logo="https://i.ibb.co/jkfZ903/cinemax.png" group-title="Cine y Series",Cinemax
-http://38.41.8.1:8000/play/a00y
-#EXTINF:-1 tvg-id="CLOVER.pe" tvg-logo="https://i.ibb.co/VgHWd6n/clover-channel.png" group-title="Cine y Series",Clover
-http://38.41.8.1:8000/play/a00f
+http://190.61.55.186:1010/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL HD.pe" tvg-logo="https://i.ibb.co/XVRWWGd/comedycentral.png" group-title="Cine y Series",Comedy Central
-http://38.41.8.1:8000/play/a00z
+http://190.61.55.186:1010/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-logo="https://i.ibb.co/QDMD1N8/dhe.png" group-title="Cine y Series",DHE
-http://38.41.8.1:8000/play/a02x
-#EXTINF:-1 tvg-id="EUROCHANNEL.pe" tvg-logo="https://i.ibb.co/vXr5JZH/euro-channel.png" group-title="Cine y Series",Eurochannel
-http://45.5.116.178:8000/play/a032
-#EXTINF:-1 tvg-id="Europa Europa HD.pe" tvg-logo="https://i.ibb.co/vhcxzxF/europaeuropa.png" group-title="Cine y Series",Europa Europa
-http://45.5.117.182:8000/play/a0fq
-#EXTINF:-1 tvg-id="Film and Arts HD.pe" tvg-logo="https://i.ibb.co/F3Twpcc/film-arts.png" group-title="Cine y Series",Film&Art
-http://45.5.117.182:8000/play/a0fl
+http://190.61.55.186:1010/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="FX.pe" tvg-logo="https://i.ibb.co/cQZbrRF/fx.png" group-title="Cine y Series",FX
-http://38.41.8.1:8000/play/a01h
+http://190.61.55.186:1010/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT.pe" tvg-logo="https://i.ibb.co/1X4J9Cq/paramount.png" group-title="Cine y Series",Paramount
-http://38.41.8.1:8000/play/a01x
+http://190.61.55.186:1010/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="SONY.pe" tvg-logo="https://i.ibb.co/9srfgGv/sony.png" group-title="Cine y Series",Sony Channel
-http://38.41.8.1:8000/play/a007
+http://190.61.55.186:1010/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://i.ibb.co/FJ8cdKb/sony-movies.png" group-title="Cine y Series",Sony Movies
-http://177.53.155.236:8000/play/a08n
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/150113.ts
 #EXTINF:-1 tvg-id="SPACE.pe" tvg-logo="https://i.ibb.co/HrKT39m/space.png" group-title="Cine y Series",Space
-http://38.41.8.1:8000/play/a00a
+http://190.61.55.186:1010/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" tvg-logo="https://i.ibb.co/M11xjFr/starchannel.png" group-title="Cine y Series",Star Channel
-http://38.41.8.1:8000/play/a019
-#EXTINF:-1 tvg-id="Star TVE HD.pe" tvg-logo="https://i.ibb.co/ZSVYz10/startve.jpg" group-title="Cine y Series",Star Tve
-http://38.41.8.1:8000/play/a01z
+http://190.61.55.186:1010/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="STUDIO UNIVERSAL.pe" tvg-logo="https://i.ibb.co/M1kxMnB/studio-universal.png" group-title="Cine y Series",Studio Universal
-http://38.41.8.1:8000/play/a01y
-#EXTINF:-1 tvg-id="TCM.pe" tvg-logo="https://i.ibb.co/8072twn/tcm.png" group-title="Cine y Series",TCM
-http://38.41.8.1:8000/play/a04x
+http://190.61.55.186:1010/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="TNT.pe" tvg-logo="https://i.ibb.co/SJtrSGv/tnt.png" group-title="Cine y Series",TNT 
-http://38.41.8.1:8000/play/a00s
+http://190.61.55.186:1010/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="TNT SERIES.pe" tvg-logo="https://i.ibb.co/gWTm7g0/tnt-series.png" group-title="Cine y Series",TNT Series
-http://38.41.8.1:8000/play/a01g
+http://190.61.55.186:1010/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-logo="https://i.ibb.co/8z3R0VF/universal-channel.png" group-title="Cine y Series",Universal
-http://38.41.8.1:8000/play/a01a
+http://190.61.55.186:1010/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkPanregional.us" tvg-logo="https://i.ibb.co/7CQ6jML/usa.jpg" group-title="Cine y Series",USA
-http://38.41.8.1:8000/play/a057
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/7978.ts
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" tvg-logo="https://i.ibb.co/0tCMn8b/warner-tv.png" group-title="Cine y Series",Warner
-http://38.41.8.1:8000/play/a008
+http://190.61.55.186:1010/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://i.ibb.co/1T0j3Tj/espn.png" group-title="Deportes",ESPN
-http://38.41.8.1:8000/play/a00k
+http://190.61.55.186:1010/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://i.ibb.co/Jc8Rr33/espn2.png" group-title="Deportes",ESPN 2
-http://38.41.8.1:8000/play/a00c
+http://190.61.55.186:1010/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.pe" tvg-logo="https://i.ibb.co/nM0jD4p/espn3.png" group-title="Deportes",ESPN 3
-http://38.41.8.1:8000/play/a00t
+http://190.61.55.186:1010/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4 HD.pe" tvg-logo="https://i.ibb.co/fdxZb9s/espn4.png" group-title="Deportes",ESPN 4
-http://38.41.8.1:8000/play/a01t
+http://190.61.55.186:1010/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 5 HD.pe" tvg-logo="https://i.ibb.co/FHy20Cf/espn5.png" group-title="Deportes",ESPN 5
-http://38.41.8.1:8000/play/a0br
+http://190.61.55.186:1010/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://i.ibb.co/gMc9wbN/espn6.png" group-title="Deportes",ESPN 6
-http://38.41.8.1:8000/play/a0bp
+http://190.61.55.186:1010/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 7 HD.pe" tvg-logo="https://i.ibb.co/F7ZWtwt/espn7.png" group-title="Deportes",ESPN 7
-http://38.41.8.1:8000/play/a0bs
+http://190.61.55.186:1010/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://i.ibb.co/9hJLSWK/espn-premium.png" group-title="Deportes",ESPN ᴾʳᵉᵐⁱᵘᵐ
-http://38.41.8.1:8000/play/a0ca
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/145417.ts
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://i.ibb.co/GtkRtRz/movistar-deportes.png" group-title="Deportes",Movistar Deportes
-http://38.41.8.1:8000/play/a026
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/145451.ts
 #EXTINF:-1 tvg-id="GOLPERU HD.pe" tvg-logo="https://i.ibb.co/g9QHpDN/gol-peru.png" group-title="Deportes",Gol Perú
-http://38.41.8.1:8000/play/a02j
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/132292.ts
 #EXTINF:-1 tvg-id="GOL TV HD.pe" tvg-logo="https://i.ibb.co/BsQy40q/gol-tv.png" group-title="Deportes",GolTV
-http://38.41.8.1:8000/play/a02d
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GCN4HVW/golfchannel.png" group-title="Deportes",Golf Channel
-http://45.5.117.182:8000/play/a0fv
+http://190.61.55.186:1010/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="HOME and HEALTH.pe" tvg-logo="https://i.ibb.co/JsZJgG5/discovery-hyh.png" group-title="Entretenimiento",Discovery H&H
-http://38.41.8.1:8000/play/a017
-#EXTINF:-1 tvg-id="DISCOVERY TURBO.pe" tvg-logo="https://i.ibb.co/6svXtqh/discovery-turbo.png" group-title="Entretenimiento",Discovery Turbo
-http://38.41.8.1:8000/play/a068
+http://190.61.55.186:1010/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="E.pe" tvg-logo="https://i.ibb.co/MBnwGzS/everything.png" group-title="Entretenimiento",E!
-http://38.41.8.1:8000/play/a02c
+http://190.61.55.186:1010/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="EL GOURMET HD.pe" tvg-logo="https://i.ibb.co/NTdcVGJ/el-gourmet.png" group-title="Entretenimiento",El Gourmet
-http://38.41.8.1:8000/play/a012
-#EXTINF:-1 tvg-id="FOOD NETWORK.pe" tvg-logo="https://i.ibb.co/YXcyJst/food.png" group-title="Entretenimiento",Food Network
-http://38.41.8.1:8000/play/a02f
-#EXTINF:-1 tvg-id="HGTV.pe" tvg-logo="https://i.ibb.co/y4LFdhk/HGTV.jpg" group-title="Entretenimiento",HGTV
-http://38.41.8.1:8000/play/a08e
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://i.ibb.co/kHTtTJr/holatv.png" group-title="Entretenimiento",Hola TV
-http://38.41.8.1:8000/play/a00r
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/132573.ts
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://i.ibb.co/tHn3k25/lifetime.png" group-title="Entretenimiento",Lifetime
-http://38.41.8.1:8000/play/a056
-#EXTINF:-1 tvg-id="Mas Chic HD.pe" tvg-logo="https://i.ibb.co/B4X0yv3/mas-chic.png" group-title="Entretenimiento",Mas Chic
-http://181.78.12.119:16123/play/ch33
+http://190.61.55.186:1010/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="M PLUS.pe" tvg-logo="https://i.ibb.co/HT1GLJ5/movistar-plus.png" group-title="Entretenimiento",Movistar Plus
-http://177.53.155.236:8000/play/a09o
-#EXTINF:-1 tvg-id="TLC.pe" tvg-logo="https://i.ibb.co/sVS1cF1/tlc.png" group-title="Entretenimiento",TLC
-http://45.5.117.182:8000/play/a0hQ
-#EXTINF:-1 tvg-id="ADULT SWIM.pe" tvg-logo="https://i.ibb.co/bXzTMzH/adult-swim.png" group-title="Infantiles",Adult Swim
-http://38.41.8.1:8000/play/a011
-#EXTINF:-1 tvg-id="BABY TV.pe" tvg-logo="https://i.ibb.co/MsTCdv8/babytv.png" group-title="Infantiles",Baby TV
-http://190.60.40.37:12500/play/a01s
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3327.ts
 #EXTINF:-1 tvg-id="Cartoon Network HD.pe" tvg-logo="https://i.ibb.co/rfswZ3H/cartoonnetwork.png" group-title="Infantiles",Cartoon Netwoort
-http://38.41.8.1:8000/play/a01w
-#EXTINF:-1 tvg-id="CARTOONITO HD.pe" tvg-logo="https://i.ibb.co/fxCzVc9/cartoonito.png" group-title="Infantiles",Cartoonito
-http://45.5.117.182:8000/play/ari9
+http://190.61.55.186:1010/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe" tvg-logo="https://i.ibb.co/gz4t1VH/discovery-kids.png" group-title="Infantiles",Discovery Kids
-http://38.41.8.1:8000/play/a0bl
+http://190.61.55.186:1010/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="https://i.ibb.co/RDQ9yQr/disneychannel.png" group-title="Infantiles",Disney Channel
-http://38.41.8.1:8000/play/a00q
+http://190.61.55.186:1010/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR.pe" tvg-logo="https://i.ibb.co/hsR3G13/disneyjr.png" group-title="Infantiles",Disney Junior
-http://38.41.8.1:8000/play/a05l
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Gobc31d.png" group-title="Infantiles",LơƖƖყ ƙıɖʂ
-http://190.60.40.37:12500/play/a09c
+http://190.61.55.186:1010/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="NICK JR OTT.pe" tvg-logo="https://i.ibb.co/z8DKNFY/nickjr.png" group-title="Infantiles",Nick Jr.
-http://38.41.8.1:8000/play/a067
+http://190.61.55.186:1010/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="NICK HD.pe" tvg-logo="https://i.ibb.co/ZhNQKmx/nick.png" group-title="Infantiles",Nickelodeon
-http://38.41.8.1:8000/play/a00i
+http://190.61.55.186:1010/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.pe" tvg-logo="https://i.ibb.co/6ZB1Wds/teennick.png" group-title="Infantiles",TeenNick
-http://45.5.117.182:8000/play/a0fg
-#EXTINF:-1 tvg-id="TOONCAST.pe" tvg-logo="https://i.ibb.co/jy4xxv3/tooncast.png" group-title="Infantiles",Tooncast
-http://45.5.117.182:8000/play/a0hm
-#EXTINF:-1 tvg-id="ANTENA3.pe" tvg-logo="https://i.ibb.co/JBHXYQH/antena3.png" group-title="Internacional",Antena 3 Internacional
-http://38.41.8.1:8000/play/a0a4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gzxyL9w/citytv.jpg" group-title="Internacional",City tv
-http://38.41.8.1:8000/play/a06x
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/149684.ts
 #EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-logo="https://i.ibb.co/TbD9hXg/telemundo.png" group-title="Internacional",Telemundo Internacional
-http://38.41.8.1:8000/play/a083
-#EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://i.ibb.co/8jT22CV/htv.png" group-title="Música",HTV
-http://38.41.8.1:8000/play/a08i
+http://190.61.55.186:1010/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="MTV.pe" tvg-logo="https://i.ibb.co/MBY0D3G/mtv.png" group-title="Música",MTV
-http://38.41.8.1:8000/play/a02u
+http://190.61.55.186:1010/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYPM6fN/cablenoticias.jpg" group-title="Noticias",Cable Noticias
-http://190.60.40.37:12500/play/a07g
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3587.ts
 #EXTINF:-1 tvg-id="CNN ESPAÑOL.pe" tvg-logo="https://i.ibb.co/vs0WRXX/cnnespanol.png" group-title="Noticias",CNN en Español
-http://38.41.8.1:8000/play/a059
-#EXTINF:-1 tvg-id="CNN Premium.pe" tvg-logo="https://i.ibb.co/L0mzfZ3/cnninternational.jpg" group-title="Noticias",CNN International
-http://177.53.155.236:8000/play/a029
+http://190.61.55.186:1010/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="CANAL N.pe" tvg-logo="https://i.ibb.co/SR1jxTF/canaln.png" group-title="Noticias",Canal N
-http://177.53.155.236:8000/play/a09p
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3331.ts
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.ibb.co/ydc3grs/dw.png" group-title="Noticias",DW
-http://38.41.8.1:8000/play/a0b6
+http://190.61.55.186:1010/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="FRANCE24.pe" tvg-logo="https://i.ibb.co/L5355p0/france24.jpg" group-title="Noticias",France 24
-http://45.5.117.182:8000/play/a0f8
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/150279.ts
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-logo="https://i.ibb.co/JHYrsC0/RPP.png" group-title="Noticias",RPP
-http://177.53.155.236:8000/play/a09l
-#EXTINF:-1 tvg-id="CaracolPremium.co" tvg-logo="https://i.ibb.co/LSgpYQ5/caracol.png" group-title="Novelas",Caracol
-http://38.41.8.1:8000/play/a02v
-#EXTINF:-1 tvg-id="AZ CORAZON.pe" tvg-logo="https://i.ibb.co/JCB5M6s/az-corazon.png" group-title="Novelas",Corazón
-http://45.5.117.182:8000/play/a0eu
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/3352.ts
 #EXTINF:-1 tvg-id="K-DRAMA.pe" tvg-logo="https://i.ibb.co/ZWxdKG5/kanal-DDrama.jpg" group-title="Novelas",Kanal D Drama
-http://38.41.8.1:8000/play/a0bz
+http://magmas5.com:8000/live/vidal130884/461G2TP4DW/150282.ts
 #EXTINF:-1 tvg-id="las estrellas.pe" tvg-logo="https://i.ibb.co/YNWWxKZ/las-estrellas.png" group-title="Novelas",Las Estrellas
-http://38.41.8.1:8000/play/a02w
+http://190.61.55.186:1010/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="Pasiones HD.pe" tvg-logo="https://i.ibb.co/TLB9GdM/pasiones.png" group-title="Novelas",Pasiones
-http://38.41.8.1:8000/play/a00p
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-logo="https://i.ibb.co/Jq8xwNL/RCN-Novelas.png" group-title="Novelas",RCN Novelas
-http://38.41.8.1:8000/play/a070
-#EXTINF:-1 tvg-id="Tl Novelas.pe" tvg-logo="https://i.ibb.co/HrCdWF0/tlnovelas.png" group-title="Novelas",Tlnovelas
-http://45.5.117.182:8000/play/Kjnl
+http://190.61.55.186:1010/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LzJpDv1/tntnovelas.jpg" group-title="Novelas",TNT Novelas
-http://38.41.8.1:8000/play/a0d1
-#EXTINF:-1 tvg-id="VE PLUS TV.pe" tvg-logo="https://i.ibb.co/YZ8g6H8/veplus.jpg" group-title="Novelas",Ve Plus
-http://38.41.8.1:8000/play/a0d0
+http://190.61.55.186:1010/play/a041/index.m3u8
