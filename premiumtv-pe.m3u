@@ -1,6 +1,7 @@
-#EXTINF:-1,Nat Geo Wild
+#EXTM3U
+#EXTINF:-1, tvg-id="Nat Geo Wild.es" tvg-name="01 - Nat Geo Wild",Nat Geo Wild
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C0:02:E0&stream=55611_&extension=ts
-#EXTINF:-1,PAX TV
+#EXTINF:-1 tvg-id="PAX TV.pe" tvg-name="02 - PAX TV",PAX TV
 https://dk54oueqqbiyz.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist_1280x720_3300k.m3u8
 #EXTINF:-1,History
 http://38.41.8.1:8000/play/a005
