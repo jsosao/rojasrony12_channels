@@ -4,9 +4,4 @@ http://212.102.60.231/HBO/index.m3u8#subtitles=3
 #EXTINF:-1,HBO US v2
 http://212.102.60.231/HBO/index.m3u8?cc_lang_pref=es
 #EXTINF:-1,HBO US v3
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Español",LANGUAGE="es",URI="http://fl5.moveonjoy.com/HBO_ZONE/subtitulos.vtt"
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720
-http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
