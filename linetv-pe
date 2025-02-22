@@ -74,7 +74,7 @@ http://38.41.8.1:8000/play/a0uh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ds4TXXNH/DISCOVERY-ID.png" group-title="Ciencia y Cultura",DISCOVERY ID
 http://38.41.8.1:8000/play/a071
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJHfh850/DISCOVERY-SCIENCE.png" group-title="Ciencia y Cultura",DISCOVERY SCIENCE
-http://179.1.132.203:8000/play/a09i
+http://179.1.132.203:8000/play/a09i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tGYkZRR/DISCOVERY-THEATHER.png" group-title="Ciencia y Cultura",DISCOVERY THEATER
 http://38.41.8.1:8000/play/a0st
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DzNy8c2/DISCOVERY-WORLD.png" group-title="Ciencia y Cultura",DISCOVERY WORLD
@@ -92,7 +92,7 @@ http://38.41.8.1:8000/play/a07b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DfC2v2Yw/ESPN6.png" group-title="Deportes",ESPN 6
 http://38.41.8.1:8000/play/a0sk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N60Dsr73/ESPN7.png" group-title="Deportes",ESPN 7
-http://179.1.132.203:8000/play/a06u
+http://179.1.132.203:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9dBBjS/GOLTV.png" group-title="Deportes",GOLTV
 http://38.41.8.1:8000/play/a0wi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Deportes",MOVISTAR DEPORTES
@@ -112,7 +112,7 @@ http://38.41.8.1:8000/play/a0ur
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYBm3GKP/COMEDY-CENTRAL.png" group-title="Cine y Series",COMEDY CENTRAL
 http://38.41.8.1:8000/play/a0tt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRCCV8bD/DHE.png" group-title="Cine y Series",DHE
-http://179.1.132.203:8000/play/a096
+http://179.1.132.203:8000/play/a096/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/604rt5rk/FX.png" group-title="Cine y Series",FX
 http://38.41.8.1:8000/play/a0ru
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Zc73QPP/PARAMOUNT-NETWORK.png" group-title="Cine y Series",PARAMOUNT
@@ -120,7 +120,7 @@ http://38.41.8.1:8000/play/a0t2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QF65VvwZ/SONY-CHANNEL.png" group-title="Cine y Series",SONY
 http://38.41.8.1:8000/play/a0tq
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDFjjhcc/SONY-MOVIES.png" group-title="Cine y Series",SONY MOVIES
-http://179.1.132.203:8000/play/a08d
+http://179.1.132.203:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfWXtZwh/SPACE.png" group-title="Cine y Series",SPACE
 http://38.41.8.1:8000/play/a0ra
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xq6mnpLF/STAR-CHANNEL.png" group-title="Cine y Series",STAR CHANNEL
@@ -154,7 +154,7 @@ http://38.41.8.1:8000/play/a0s1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whxYP5tQ/EL-GOURMET.png" group-title="Entretenimiento",EL GOURMET
 http://38.41.8.1:8000/play/a0tf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DH77CLHt/FOOD-NETWORK.png" group-title="Entretenimiento",FOOD NETWORK
-http://179.1.132.203:8000/play/a093
+http://179.1.132.203:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx0n2KSN/HGTV.png" group-title="Entretenimiento",HGTV
 http://38.41.8.1:8000/play/a0s9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xX0xYwh/DISCOVERY-H-H.png" group-title="Entretenimiento",DISCOVERY H&H
