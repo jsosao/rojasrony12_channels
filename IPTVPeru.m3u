@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://i.ibb.co/608Ctb5J/WILLAX.png" group-title="Nacionales y Locales",WILLAX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD2JBPnZ/WILLAX.png" group-title="Nacionales Perú",WILLAX
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.ibb.co/nMR0mBQz/LATINA.png" group-title="Nacionales y Locales",Latina HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kKJsj3g/LATINA.png" group-title="Nacionales Perú",LATINA
 https://live-zlr1.tv360.bitel.com.pe/bitel/latina_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMWXhX4y/KARIBENA.png" group-title="Nacionales y Locales",KARIBEÑA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7n0n14L/KARIBENA.png" group-title="Nacionales Perú",KARIBEÑA
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.m3u8
-#EXTINF:-1 tvg-id="America Television.pe" tvg-logo="https://i.ibb.co/yFdWKc3T/AMERICA.png" group-title="Nacionales y Locales",AméricaTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KpjfT12j/AMERICA.png" group-title="Nacionales Perú",AMERICA
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="Panamericana TV.pe" tvg-logo="https://i.ibb.co/d46TMRB9/PANAMERICANA.png" group-title="Nacionales y Locales",Panamericana HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d46jNSvg/PANAMERICANA.png" group-title="Nacionales Perú",PANAMERICANA
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="Exitosa TV.pe" tvg-logo="https://i.ibb.co/Mx1mt8qm/EXITOSA.png" group-title="Nacionales y Locales",Exitosa HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Y8hWQ90/EXITOSA.png" group-title="Nacionales Perú",EXITOSA
 https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="TV Perú.pe" tvg-logo="https://i.ibb.co/cKvWRphw/TVPERU.png" group-title="Nacionales y Locales",TV PERÚ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9k59dSMX/TVPERU.png" group-title="Nacionales Perú",TV PERU
 https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="ATV +.pe" tvg-logo="https://i.ibb.co/3yXFJ47X/ATVPLUS.png" group-title="Nacionales y Locales",ATV+ Noticias HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0kwJkM4/ATVPLUS.png" group-title="Nacionales Perú",ATV+ NOTICIAS
 https://live-zlr1.tv360.bitel.com.pe/bitel/atvmas_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.ibb.co/srFjtps/ATV.png" group-title="Nacionales y Locales",ATV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dZvdnMf/ATV.png" group-title="Nacionales Perú",ATV
 https://live-zlr1.tv360.bitel.com.pe/bitel/atv_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="ATV Sur.pe" tvg-logo="https://i.ibb.co/3yHwhK0z/ATVSUR.png" group-title="Nacionales y Locales",ATV Sur HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PHbtL9k/ATVSUR.png" group-title="Locales Perú",ATV SUR
 https://live-zlr1.tv360.bitel.com.pe/bitel/atvsur/playlist.m3u8
-#EXTINF:-1 tvg-id="La Tele.pe" tvg-logo="https://i.ibb.co/5XXM4Hwp/LATELE.png" group-title="Nacionales y Locales",La Tele HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdZdbgBV/LATELE.png" group-title="Locales Perú",LA TELE
 https://live-zlr1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
-#EXTINF:-1 tvg-id="USMP TV.pe" tvg-logo="https://i.ibb.co/3mwFGVf4/USMPTV.png" group-title="Nacionales y Locales",USMPTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0j3TJ1g2/USMPTV.png" group-title="Locales Perú",USMPTV
 https://live-zlr1.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
-#EXTINF:-1 tvg-id="GLOBAL.pe" tvg-logo="https://i.ibb.co/k2ffxZhH/GLOBAL.png" group-title="Nacionales y Locales",Global HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgPwwHS1/GLOBAL.png" group-title="Nacionales Perú",GLOBAL
 https://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fz8rFN4x/CONECTA2-TV.png" group-title="Nacionales y Locales",Conecta2 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P7DjsVn/CONECTA2-TV.png" group-title="Locales Perú",CONECTA2 TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/conectado2_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYkyvsrN/OVACIONTV.png" group-title="Nacionales y Locales",Ovación HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FqdbN1TS/OVACION.png" group-title="Locales Perú",OVACION
 https://live-zlr1.tv360.bitel.com.pe/bitel/ovacion/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35LyWr6J/LIKETV.png" group-title="Nacionales y Locales",Like TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc8yg50S/LIKETV.png" group-title="Locales Perú",LIKE TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRX253CV/BHTV.png" group-title="Nacionales y Locales",BHTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YJNnf2z/BHTV.png" group-title="Locales Perú",BHTV
 https://live-zlr1.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nativa Tv.pe" tvg-logo="https://i.ibb.co/DDSBpqLd/NATIVA.png" group-title="Nacionales y Locales",Nativa TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qFpVP3pL/NATIVA.png" group-title="Locales Perú",NATIVA TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/nativa_ori_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B579WZDT/MATICES.png" group-title="Nacionales y Locales",Matices HD
-https://play.agenciastreaming.com:8081/maticestv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QvNbv71t/TELELIMA.png" group-title="Nacionales y Locales",Telelima HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QSDQdFj/TELELIMA.png" group-title="Locales Perú",TELELIMA
 https://live-zlr1.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whVGb3G6/MATICES.png" group-title="Locales Perú",MATICES
+https://play.agenciastreaming.com:8081/maticestv/index.m3u8
